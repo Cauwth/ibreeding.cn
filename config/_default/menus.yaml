@@ -81,15 +81,15 @@ main:
     identifer: Resources
   - name: Genetic Resources
     url: 'resources#genetic-resources'
-    weight: 10
+    weight: 20
     parent: Resources
   - name: Databases
     url: 'resources#databases'
-    weight: 20
+    weight: 30
     parent: Resources
   - name: Tools
     url: 'resources#tools'
-    weight: 30
+    weight: 10
     parent: Resources
 
   - name: Contact us
