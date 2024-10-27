@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: about.biography
+    id: current
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -33,6 +34,7 @@ sections:
       show_role: true
       show_social: true
   - block: people
+    id: alumni
     content:
       title: Our Alumni
       # Choose which groups/teams of users to display.
