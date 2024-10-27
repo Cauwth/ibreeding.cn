@@ -5,35 +5,35 @@
 
 main:
   - name: Home
-    url: ''
+    url: /
     weight: 10
 
   - name: Research
-    url: 'research'
+    url: /research
     weight: 20
     identifer: Research
   - name: Crop Genomics
-    url: 'research/crop-genomics'
+    url: /research/crop-genomics
     weight: 10
     parent: Research
   - name: Population Genetics
-    url: 'research/population-genetics'
+    url: /research/population-genetics
     weight: 20
     parent: Research
   - name: Genomic Breeding
-    url: 'research/genomic-breeding'
+    url: /research/genomic-breeding
     weight: 30
     parent: Research
   - name: Bioinformatics
-    url: 'research/bioinformatics'
+    url: /research/bioinformatics
     weight: 40
     parent: Research
   - name: Systems Biology
-    url: 'research/systems-biology'
+    url: /research/systems-biology
     weight: 50
     parent: Research
   - name: Human Health
-    url: 'research/human-health'
+    url: /research/human-health
     weight: 60
     parent: Research
 
