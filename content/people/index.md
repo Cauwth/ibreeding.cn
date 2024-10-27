@@ -11,6 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      
   - block: people
     content:
       title: Meet the Team
@@ -33,6 +34,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
   - block: people
     id: alumni
     content:
