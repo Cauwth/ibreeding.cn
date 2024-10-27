@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shi-Jian Zhang | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/shi-jian-zhang/</link>
+      <atom:link href="https://ibreeding.cn/author/shi-jian-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shi-Jian Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Shi-Jian Zhang</title>
+      <link>https://ibreeding.cn/author/shi-jian-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Genome Size Evolution Mediated by Gypsy Retrotransposons in Brassicaceae</title>
+      <link>https://ibreeding.cn/publication/zhang-2020-oct/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhang-2020-oct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Models for Genetic Risk Assessment of Infants with Non-syndromic Orofacial Cleft</title>
+      <link>https://ibreeding.cn/publication/zhang-2018-dec/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhang-2018-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isoform Evolution in Primates through Independent Combination of Alternative RNA Processing Events</title>
+      <link>https://ibreeding.cn/publication/zhang-2017-jul/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhang-2017-jul/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

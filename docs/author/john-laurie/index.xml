@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Laurie | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/john-laurie/</link>
+      <atom:link href="https://ibreeding.cn/author/john-laurie/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Laurie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>John Laurie</title>
+      <link>https://ibreeding.cn/author/john-laurie/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Expression of Imprinted Genes Associates with Maternally Controlled Nutrient Allocation during Maize Endosperm Development</title>
+      <link>https://ibreeding.cn/publication/xin-2013-sep/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/xin-2013-sep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

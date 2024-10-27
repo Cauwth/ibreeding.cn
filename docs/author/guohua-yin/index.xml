@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guohua Yin | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/guohua-yin/</link>
+      <atom:link href="https://ibreeding.cn/author/guohua-yin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guohua Yin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Guohua Yin</title>
+      <link>https://ibreeding.cn/author/guohua-yin/</link>
+    </image>
+    
+    <item>
+      <title>Complete genome of Hainan papaya ringspot virus using small RNA deep sequencing</title>
+      <link>https://ibreeding.cn/publication/zhang-2014-feb/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhang-2014-feb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

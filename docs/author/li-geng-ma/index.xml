@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li-Geng Ma | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/li-geng-ma/</link>
+      <atom:link href="https://ibreeding.cn/author/li-geng-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li-Geng Ma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Li-Geng Ma</title>
+      <link>https://ibreeding.cn/author/li-geng-ma/</link>
+    </image>
+    
+    <item>
+      <title>A Genome-Wide Transcription Analysis Reveals a Close Correlation of Promoter INDEL Polymorphism and Heterotic Gene Expression in Rice Hybrids</title>
+      <link>https://ibreeding.cn/publication/zhang-2008-aug/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhang-2008-aug/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

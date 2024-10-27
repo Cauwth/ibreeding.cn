@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Li | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/yu-li/</link>
+      <atom:link href="https://ibreeding.cn/author/yu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ibreeding.cn/author/yu-li/avatar_hu6849107222896442235.jpg</url>
+      <title>Yu Li</title>
+      <link>https://ibreeding.cn/author/yu-li/</link>
+    </image>
+    
+    <item>
+      <title>Yu Li</title>
+      <link>https://ibreeding.cn/author/yu-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/author/yu-li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

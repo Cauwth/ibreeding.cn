@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sulan Bai | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/sulan-bai/</link>
+      <atom:link href="https://ibreeding.cn/author/sulan-bai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sulan Bai</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Sulan Bai</title>
+      <link>https://ibreeding.cn/author/sulan-bai/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptional analysis of highly syntenic regions between Medicago truncatula and Glycine max using tiling microarrays</title>
+      <link>https://ibreeding.cn/publication/li-2008-mar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/li-2008-mar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

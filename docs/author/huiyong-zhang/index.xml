@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huiyong Zhang | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/huiyong-zhang/</link>
+      <atom:link href="https://ibreeding.cn/author/huiyong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huiyong Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Huiyong Zhang</title>
+      <link>https://ibreeding.cn/author/huiyong-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide mapping of the HY5-mediated genenetworks in Arabidopsis that involve both transcriptional and post-transcriptional regulation</title>
+      <link>https://ibreeding.cn/publication/zhang-2010-nov/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhang-2010-nov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a versatile, target-oriented tiling microarray assay for measuring allele-specific gene expression</title>
+      <link>https://ibreeding.cn/publication/he-2010-aug/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/he-2010-aug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Epigenetic and Transcriptional Trends among Two Rice Subspecies and Their Reciprocal Hybrids</title>
+      <link>https://ibreeding.cn/publication/he-2010-jan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/he-2010-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the genome expression trends in the heading-stage panicle of six rice lineages</title>
+      <link>https://ibreeding.cn/publication/peng-2009-dec/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/peng-2009-dec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

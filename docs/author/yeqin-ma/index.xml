@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yeqin Ma | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/yeqin-ma/</link>
+      <atom:link href="https://ibreeding.cn/author/yeqin-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yeqin Ma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Yeqin Ma</title>
+      <link>https://ibreeding.cn/author/yeqin-ma/</link>
+    </image>
+    
+    <item>
+      <title>High-Resolution Mapping of Epigenetic Modifications of the Rice Genome Uncovers Interplay between DNA Methylation, Histone Methylation, and Gene Expression</title>
+      <link>https://ibreeding.cn/publication/li-2008-feb/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/li-2008-feb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

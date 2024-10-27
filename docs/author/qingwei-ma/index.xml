@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingwei Ma | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/qingwei-ma/</link>
+      <atom:link href="https://ibreeding.cn/author/qingwei-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingwei Ma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Qingwei Ma</title>
+      <link>https://ibreeding.cn/author/qingwei-ma/</link>
+    </image>
+    
+    <item>
+      <title>Single-Molecule Sequencing Assists Genome Assembly Improvement and Structural Variation Inference</title>
+      <link>https://ibreeding.cn/publication/yan-2016-apr/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/yan-2016-apr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

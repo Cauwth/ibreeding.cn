@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kun He | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/kun-he/</link>
+      <atom:link href="https://ibreeding.cn/author/kun-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kun He</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Kun He</title>
+      <link>https://ibreeding.cn/author/kun-he/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide profiling of histone H3 lysine 9 acetylation and dimethylation in Arabidopsis reveals correlation between multiple histone marks and gene expression</title>
+      <link>https://ibreeding.cn/publication/zhou-2010-jan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhou-2010-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Mapping of Epigenetic Modifications of the Rice Genome Uncovers Interplay between DNA Methylation, Histone Methylation, and Gene Expression</title>
+      <link>https://ibreeding.cn/publication/li-2008-feb/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/li-2008-feb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global genome expression analysis of rice in response to drought and high-salinity stresses in shoot, flag leaf, and panicle</title>
+      <link>https://ibreeding.cn/publication/zhou-2007-jan/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhou-2007-jan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

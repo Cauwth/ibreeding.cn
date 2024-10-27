@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xing Deng | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/xing-deng/</link>
+      <atom:link href="https://ibreeding.cn/author/xing-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xing Deng</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Xing Deng</title>
+      <link>https://ibreeding.cn/author/xing-deng/</link>
+    </image>
+    
+    <item>
+      <title>Tiling microarray analysis of rice chromosome 10 to identify the transcriptome and relate its expression to chromosomal architecture</title>
+      <link>https://ibreeding.cn/publication/li-2005-may/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/li-2005-may/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

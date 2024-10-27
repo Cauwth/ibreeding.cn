@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruyang Zhang | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/ruyang-zhang/</link>
+      <atom:link href="https://ibreeding.cn/author/ruyang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruyang Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Ruyang Zhang</title>
+      <link>https://ibreeding.cn/author/ruyang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Genome optimization via virtual simulation to accelerate maize hybrid breeding</title>
+      <link>https://ibreeding.cn/publication/cheng-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/cheng-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic mechanism of heterosis utilization in maize improvement</title>
+      <link>https://ibreeding.cn/publication/xiao-2021-may/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/xiao-2021-may/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

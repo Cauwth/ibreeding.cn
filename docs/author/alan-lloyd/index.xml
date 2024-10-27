@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Lloyd | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/alan-lloyd/</link>
+      <atom:link href="https://ibreeding.cn/author/alan-lloyd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan Lloyd</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Alan Lloyd</title>
+      <link>https://ibreeding.cn/author/alan-lloyd/</link>
+    </image>
+    
+    <item>
+      <title>Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm</title>
+      <link>https://ibreeding.cn/publication/zhan-2018-sep/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhan-2018-sep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA Sequencing of Laser-Capture Microdissected Compartments of the Maize Kernel Identifies Regulatory Modules Associated with Endosperm Cell Differentiation</title>
+      <link>https://ibreeding.cn/publication/zhan-2015-mar/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/zhan-2015-mar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

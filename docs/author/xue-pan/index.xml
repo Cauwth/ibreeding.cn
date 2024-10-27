@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xue Pan | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/xue-pan/</link>
+      <atom:link href="https://ibreeding.cn/author/xue-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xue Pan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ibreeding.cn/author/xue-pan/avatar_hu2098808605712752349.jpg</url>
+      <title>Xue Pan</title>
+      <link>https://ibreeding.cn/author/xue-pan/</link>
+    </image>
+    
+    <item>
+      <title>Xue Pan</title>
+      <link>https://ibreeding.cn/author/xue-pan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/author/xue-pan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

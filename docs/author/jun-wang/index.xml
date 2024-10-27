@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Wang | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/jun-wang/</link>
+      <atom:link href="https://ibreeding.cn/author/jun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Wang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <title>Jun Wang</title>
+      <link>https://ibreeding.cn/author/jun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide transcription analyses in rice using tiling microarrays</title>
+      <link>https://ibreeding.cn/publication/li-2005-dec/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/li-2005-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pilot Study of Transcription Unit Analysis in Rice Using Oligonucleotide Tiling-path Microarray</title>
+      <link>https://ibreeding.cn/publication/stolc-2005-oct/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/stolc-2005-oct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiling microarray analysis of rice chromosome 10 to identify the transcriptome and relate its expression to chromosomal architecture</title>
+      <link>https://ibreeding.cn/publication/li-2005-may/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/li-2005-may/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
