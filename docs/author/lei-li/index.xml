@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Li | WangLab_CAU</title>
+    <link>http://localhost:1313/author/lei-li/</link>
+      <atom:link href="http://localhost:1313/author/lei-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <title>Lei Li</title>
+      <link>http://localhost:1313/author/lei-li/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide mapping of the HY5-mediated genenetworks in Arabidopsis that involve both transcriptional and post-transcriptional regulation</title>
+      <link>http://localhost:1313/publication/zhang-2010-nov/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2010-nov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a versatile, target-oriented tiling microarray assay for measuring allele-specific gene expression</title>
+      <link>http://localhost:1313/publication/he-2010-aug/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/he-2010-aug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptionally active gene fragments derived from potentially fast-evolving donor genes in the rice genome</title>
+      <link>http://localhost:1313/publication/wang-2009-mar/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2009-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the genome expression trends in the heading-stage panicle of six rice lineages</title>
+      <link>http://localhost:1313/publication/peng-2009-dec/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peng-2009-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Genome-Wide Transcription Analysis Reveals a Close Correlation of Promoter INDEL Polymorphism and Heterotic Gene Expression in Rice Hybrids</title>
+      <link>http://localhost:1313/publication/zhang-2008-aug/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2008-aug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional analysis of highly syntenic regions between Medicago truncatula and Glycine max using tiling microarrays</title>
+      <link>http://localhost:1313/publication/li-2008-mar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2008-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Identification and Characterization of Transcriptionally Active Regions in the Rice Genome</title>
+      <link>http://localhost:1313/publication/li-2007-mar/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2007-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide transcription analyses in rice using tiling microarrays</title>
+      <link>http://localhost:1313/publication/li-2005-dec/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2005-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pilot Study of Transcription Unit Analysis in Rice Using Oligonucleotide Tiling-path Microarray</title>
+      <link>http://localhost:1313/publication/stolc-2005-oct/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/stolc-2005-oct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tiling Microarray Expression Analysis of Rice Chromosome 4 Suggests a Chromosome-Level Regulation of Transcription</title>
+      <link>http://localhost:1313/publication/jiao-2005-apr/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jiao-2005-apr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiling microarray analysis of rice chromosome 10 to identify the transcriptome and relate its expression to chromosomal architecture</title>
+      <link>http://localhost:1313/publication/li-2005-may/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2005-may/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

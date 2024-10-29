@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuetong Xu | WangLab_CAU</title>
+    <link>http://localhost:1313/author/yuetong-xu/</link>
+      <atom:link href="http://localhost:1313/author/yuetong-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuetong Xu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/yuetong-xu/avatar_hu5758172933309269386.jpg</url>
+      <title>Yuetong Xu</title>
+      <link>http://localhost:1313/author/yuetong-xu/</link>
+    </image>
+    
+    <item>
+      <title>MODAS: exploring maize germplasm with multi-omics data association studies</title>
+      <link>http://localhost:1313/publication/liu-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuetong Xu</title>
+      <link>http://localhost:1313/author/yuetong-xu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/yuetong-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CropGBM: An Ultra-Efficient Machine Learning Toolbox for Genomic Selection-Assisted Breeding in Crops</title>
+      <link>http://localhost:1313/publication/xu-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LightGBM: accelerated genomically designed crop breeding through ensemble learning</title>
+      <link>http://localhost:1313/publication/yan-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yan-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CropGBM</title>
+      <link>http://localhost:1313/project/cropgbm/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cropgbm/</guid>
+      <description>&lt;p&gt;Crop Genomic Breeding machine (CropGBM) is a multifunctional program that integrates data preprocessing, population structure analysis, SNP selection, phenotype prediction, and data visualization. Has the following advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use LightGBM algorithm to quickly and accurately predict phenotype values and support GPU-accelerated training.&lt;/li&gt;
+&lt;li&gt;Supports selection and visualization of SNPs that are strongly related to phenotype.&lt;/li&gt;
+&lt;li&gt;Support PCA and t-SNE two dimensionality reduction algorithms to extract SNP information.&lt;/li&gt;
+&lt;li&gt;Support Kmeans and OPTICS two clustering algorithms to analyze the sample population structure.&lt;/li&gt;
+&lt;li&gt;Plot histograms of heterozygosity rate, deletion rate, and frequency of alleles for genotype data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CropGBM was developed by &lt;a href=&#34;http://localhost:1313/authors/yuetong-xu/&#34;&gt;Yuetong Xu&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;Please read the &lt;a href=&#34;https://ibreeding.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IbBBX24 Promotes the Jasmonic Acid Pathway and Enhances Fusarium Wilt Resistance in Sweet Potato</title>
+      <link>http://localhost:1313/publication/zhang-2020-feb/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-feb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

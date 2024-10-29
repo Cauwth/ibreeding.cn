@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peiqi Meng | WangLab_CAU</title>
+    <link>http://localhost:1313/author/peiqi-meng/</link>
+      <atom:link href="http://localhost:1313/author/peiqi-meng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peiqi Meng</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <title>Peiqi Meng</title>
+      <link>http://localhost:1313/author/peiqi-meng/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Models for Genetic Risk Assessment of Infants with Non-syndromic Orofacial Cleft</title>
+      <link>http://localhost:1313/publication/zhang-2018-dec/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2018-dec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

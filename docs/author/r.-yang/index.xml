@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Yang | WangLab_CAU</title>
+    <link>http://localhost:1313/author/r.-yang/</link>
+      <atom:link href="http://localhost:1313/author/r.-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Yang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <title>R. Yang</title>
+      <link>http://localhost:1313/author/r.-yang/</link>
+    </image>
+    
+    <item>
+      <title>Temporal patterns of gene expression in developing maize endosperm identified through transcriptome sequencing</title>
+      <link>http://localhost:1313/publication/li-2014-may/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2014-may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KGBassembler: a karyotype-based genome assembler for Brassicaceae species</title>
+      <link>http://localhost:1313/publication/ma-2012-oct/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ma-2012-oct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

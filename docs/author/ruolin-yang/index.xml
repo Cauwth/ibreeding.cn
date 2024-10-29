@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruolin Yang | WangLab_CAU</title>
+    <link>http://localhost:1313/author/ruolin-yang/</link>
+      <atom:link href="http://localhost:1313/author/ruolin-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruolin Yang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/ruolin-yang/avatar_hu16182067282977638900.png</url>
+      <title>Ruolin Yang</title>
+      <link>http://localhost:1313/author/ruolin-yang/</link>
+    </image>
+    
+    <item>
+      <title>Genome Size Evolution Mediated by Gypsy Retrotransposons in Brassicaceae</title>
+      <link>http://localhost:1313/publication/zhang-2020-oct/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-oct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruolin Yang</title>
+      <link>http://localhost:1313/author/ruolin-yang/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/ruolin-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic parent-of-origin effects on small interfering RNA expression in the developing maize endosperm</title>
+      <link>http://localhost:1313/publication/xin-2014-jul/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xin-2014-jul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Expression of Imprinted Genes Associates with Maternally Controlled Nutrient Allocation during Maize Endosperm Development</title>
+      <link>http://localhost:1313/publication/xin-2013-sep/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xin-2013-sep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organ Evolution in Angiosperms Driven by Correlated Divergences of Gene Sequences and Expression Patterns</title>
+      <link>http://localhost:1313/publication/yang-2013-jan/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yang-2013-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Reference Genome of the Halophytic Plant Eutrema salsugineum</title>
+      <link>http://localhost:1313/publication/yang-2013-mar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yang-2013-mar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

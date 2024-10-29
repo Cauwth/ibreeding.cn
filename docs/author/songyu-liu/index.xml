@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Songyu Liu | WangLab_CAU</title>
+    <link>http://localhost:1313/author/songyu-liu/</link>
+      <atom:link href="http://localhost:1313/author/songyu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Songyu Liu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/songyu-liu/avatar_hu1312622065230545789.jpg</url>
+      <title>Songyu Liu</title>
+      <link>http://localhost:1313/author/songyu-liu/</link>
+    </image>
+    
+    <item>
+      <title>MODAS: exploring maize germplasm with multi-omics data association studies</title>
+      <link>http://localhost:1313/publication/liu-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Songyu Liu</title>
+      <link>http://localhost:1313/author/songyu-liu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/songyu-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MODAS</title>
+      <link>http://localhost:1313/project/modas/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/modas/</guid>
+      <description>&lt;p&gt;MODAS (Multi-Omics Data Association Study toolkit) is an efficient software for high-dimensional omics data association analysis. A major feature of MODAS is its novel genome-wide association analysis (GWAS) strategy for high-dimensional omics data. Firstly, MODAS generates pseudo-genotype files to reduce the dimensionality of the original SNP-based genotype data; then, it performs block-based GWAS to screen out the significantly associated genomic regions (SAGRs); finally, it performs SNP-based association analysis on the SAGRs to obtain the QTLs for the high-dimensional omics data. Another feature of MODAS is that it introduces Mendelian randomization algorithm to infer the genetic regulation relationship between omics-data related QTLs, which helps biological hypothesis establishment. Moreover, a HTML based web page is implemented in MODAS for the visualization and query of omics-data based GWAS results, which facilitate further gene function mining.&lt;/p&gt;
+&lt;p&gt;MODAS was developed by &lt;a href=&#34;http://localhost:1313/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;Please read the &lt;a href=&#34;https://modas-bio.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolomics-driven gene mining and genetic improvement of tolerance to salt-induced osmotic stress in maize</title>
+      <link>http://localhost:1313/publication/liang-2021-mar/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2021-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrigendum: Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
+      <link>http://localhost:1313/publication/liang-2019-jan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2019-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
+      <link>http://localhost:1313/publication/liang-2018-dec/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2018-dec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

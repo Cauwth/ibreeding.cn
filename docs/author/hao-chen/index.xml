@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Chen | WangLab_CAU</title>
+    <link>http://localhost:1313/author/hao-chen/</link>
+      <atom:link href="http://localhost:1313/author/hao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Chen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/hao-chen/avatar_hu2964367874193143312.jpg</url>
+      <title>Hao Chen</title>
+      <link>http://localhost:1313/author/hao-chen/</link>
+    </image>
+    
+    <item>
+      <title>CrusView</title>
+      <link>http://localhost:1313/project/crusview/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/crusview/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.cmbb.arizona.edu/CrusView/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CrusView&lt;/a&gt; is a Java-based bioinformatic application utilizing Standard Widget Toolkit/Swing graphics libraries and a SQLite database for performing visualized analyses of comparative genomics data in Brassicaceae (crucifer) plants.&lt;/p&gt;
+&lt;p&gt;Compared with similar software and databases, one of the unique features of CrusView is its integration of karyotype information when comparing two genomes. This feature allows users to perform karyotype-based genome assembly and karyotype-assisted genome synteny analyses with preset karyotype patterns of the Brassicaceae genomes. Additionally, CrusView is a local program, which gives its users high flexibility when analyzing unpublished genomes and allows users to upload self-defined genomic information so that they can visually study the associations between genome structural variations and genetic elements, including chromosomal rearrangements, genomic macrosynteny, gene families, high-frequency recombination sites, and tandem and segmental duplications between related species. This tool will greatly facilitate karyotype, chromosome, and genome evolution studies using visualized comparative genomics approaches in Brassicaceae species.&lt;/p&gt;
+&lt;p&gt;CrusView was developed by &lt;a href=&#34;http://localhost:1313/authors/hao-chen/&#34;&gt;Hao Chen&lt;/a&gt; in 2013.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hao Chen</title>
+      <link>http://localhost:1313/author/hao-chen/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/hao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Expression of Imprinted Genes Associates with Maternally Controlled Nutrient Allocation during Maize Endosperm Development</title>
+      <link>http://localhost:1313/publication/xin-2013-sep/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xin-2013-sep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrusView: A Java-Based Visualization Platform for Comparative Genomics Analyses in Brassicaceae Species</title>
+      <link>http://localhost:1313/publication/chen-2013-jul/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2013-jul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Reference Genome of the Halophytic Plant Eutrema salsugineum</title>
+      <link>http://localhost:1313/publication/yang-2013-mar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yang-2013-mar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

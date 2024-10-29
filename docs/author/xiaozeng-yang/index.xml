@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaozeng Yang | WangLab_CAU</title>
+    <link>http://localhost:1313/author/xiaozeng-yang/</link>
+      <atom:link href="http://localhost:1313/author/xiaozeng-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaozeng Yang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <title>Xiaozeng Yang</title>
+      <link>http://localhost:1313/author/xiaozeng-yang/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide mapping of the HY5-mediated genenetworks in Arabidopsis that involve both transcriptional and post-transcriptional regulation</title>
+      <link>http://localhost:1313/publication/zhang-2010-nov/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2010-nov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a versatile, target-oriented tiling microarray assay for measuring allele-specific gene expression</title>
+      <link>http://localhost:1313/publication/he-2010-aug/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/he-2010-aug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptionally active gene fragments derived from potentially fast-evolving donor genes in the rice genome</title>
+      <link>http://localhost:1313/publication/wang-2009-mar/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2009-mar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ligeng Ma | WangLab_CAU</title>
+    <link>http://localhost:1313/author/ligeng-ma/</link>
+      <atom:link href="http://localhost:1313/author/ligeng-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ligeng Ma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <title>Ligeng Ma</title>
+      <link>http://localhost:1313/author/ligeng-ma/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of the genome expression trends in the heading-stage panicle of six rice lineages</title>
+      <link>http://localhost:1313/publication/peng-2009-dec/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peng-2009-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global genome expression analysis of rice in response to drought and high-salinity stresses in shoot, flag leaf, and panicle</title>
+      <link>http://localhost:1313/publication/zhou-2007-jan/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhou-2007-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tiling Microarray Expression Analysis of Rice Chromosome 4 Suggests a Chromosome-Level Regulation of Transcription</title>
+      <link>http://localhost:1313/publication/jiao-2005-apr/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jiao-2005-apr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Xu | WangLab_CAU</title>
+    <link>http://localhost:1313/author/feng-xu/</link>
+      <atom:link href="http://localhost:1313/author/feng-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng Xu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/feng-xu/avatar_hu10925022888923371128.jpg</url>
+      <title>Feng Xu</title>
+      <link>http://localhost:1313/author/feng-xu/</link>
+    </image>
+    
+    <item>
+      <title>Feng Xu</title>
+      <link>http://localhost:1313/author/feng-xu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/feng-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MODAS: exploring maize germplasm with multi-omics data association studies</title>
+      <link>http://localhost:1313/publication/liu-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome optimization via virtual simulation to accelerate maize hybrid breeding</title>
+      <link>http://localhost:1313/publication/cheng-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrigendum: Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
+      <link>http://localhost:1313/publication/liang-2019-jan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2019-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
+      <link>http://localhost:1313/publication/liang-2018-dec/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2018-dec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

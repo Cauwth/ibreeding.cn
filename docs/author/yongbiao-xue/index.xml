@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongbiao Xue | WangLab_CAU</title>
+    <link>http://localhost:1313/author/yongbiao-xue/</link>
+      <atom:link href="http://localhost:1313/author/yongbiao-xue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongbiao Xue</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <title>Yongbiao Xue</title>
+      <link>http://localhost:1313/author/yongbiao-xue/</link>
+    </image>
+    
+    <item>
+      <title>A Pilot Study of Transcription Unit Analysis in Rice Using Oligonucleotide Tiling-path Microarray</title>
+      <link>http://localhost:1313/publication/stolc-2005-oct/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/stolc-2005-oct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tiling Microarray Expression Analysis of Rice Chromosome 4 Suggests a Chromosome-Level Regulation of Transcription</title>
+      <link>http://localhost:1313/publication/jiao-2005-apr/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jiao-2005-apr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

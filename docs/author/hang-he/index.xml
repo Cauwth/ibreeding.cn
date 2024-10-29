@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hang He | WangLab_CAU</title>
+    <link>http://localhost:1313/author/hang-he/</link>
+      <atom:link href="http://localhost:1313/author/hang-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hang He</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <title>Hang He</title>
+      <link>http://localhost:1313/author/hang-he/</link>
+    </image>
+    
+    <item>
+      <title>Divergent selection and genetic introgression shape the genome landscape of heterosis in hybrid rice</title>
+      <link>http://localhost:1313/publication/lin-2020-feb/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lin-2020-feb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The hybrid protein interactome contributes to rice heterosis as epistatic effects</title>
+      <link>http://localhost:1313/publication/li-2019-nov/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2019-nov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Molecule Sequencing Assists Genome Assembly Improvement and Structural Variation Inference</title>
+      <link>http://localhost:1313/publication/yan-2016-apr/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yan-2016-apr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide mapping of the HY5-mediated genenetworks in Arabidopsis that involve both transcriptional and post-transcriptional regulation</title>
+      <link>http://localhost:1313/publication/zhang-2010-nov/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2010-nov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a versatile, target-oriented tiling microarray assay for measuring allele-specific gene expression</title>
+      <link>http://localhost:1313/publication/he-2010-aug/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/he-2010-aug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Epigenetic and Transcriptional Trends among Two Rice Subspecies and Their Reciprocal Hybrids</title>
+      <link>http://localhost:1313/publication/he-2010-jan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/he-2010-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Genome-Wide Transcription Analysis Reveals a Close Correlation of Promoter INDEL Polymorphism and Heterotic Gene Expression in Rice Hybrids</title>
+      <link>http://localhost:1313/publication/zhang-2008-aug/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2008-aug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Cytological Features with Molecular and Epigenetic Properties of Rice Chromosome 4</title>
+      <link>http://localhost:1313/publication/yin-2008-aug/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yin-2008-aug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Mapping of Epigenetic Modifications of the Rice Genome Uncovers Interplay between DNA Methylation, Histone Methylation, and Gene Expression</title>
+      <link>http://localhost:1313/publication/li-2008-feb/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2008-feb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional analysis of highly syntenic regions between Medicago truncatula and Glycine max using tiling microarrays</title>
+      <link>http://localhost:1313/publication/li-2008-mar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2008-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Identification and Characterization of Transcriptionally Active Regions in the Rice Genome</title>
+      <link>http://localhost:1313/publication/li-2007-mar/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2007-mar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
