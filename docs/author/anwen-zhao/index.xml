@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anwen Zhao | WangLab_CAU</title>
-    <link>http://localhost:1313/author/anwen-zhao/</link>
-      <atom:link href="http://localhost:1313/author/anwen-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/anwen-zhao/</link>
+      <atom:link href="https://ibreeding.cn/author/anwen-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Anwen Zhao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/anwen-zhao/avatar_hu1473006999474251044.jpg</url>
+      <url>https://ibreeding.cn/author/anwen-zhao/avatar_hu1473006999474251044.jpg</url>
       <title>Anwen Zhao</title>
-      <link>http://localhost:1313/author/anwen-zhao/</link>
+      <link>https://ibreeding.cn/author/anwen-zhao/</link>
     </image>
     
     <item>
       <title>Anwen Zhao</title>
-      <link>http://localhost:1313/author/anwen-zhao/</link>
+      <link>https://ibreeding.cn/author/anwen-zhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/anwen-zhao/</guid>
+      <guid>https://ibreeding.cn/author/anwen-zhao/</guid>
       <description></description>
     </item>
     

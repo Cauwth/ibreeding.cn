@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tianhao Wu | WangLab_CAU</title>
-    <link>http://localhost:1313/author/tianhao-wu/</link>
-      <atom:link href="http://localhost:1313/author/tianhao-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/tianhao-wu/</link>
+      <atom:link href="https://ibreeding.cn/author/tianhao-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianhao Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/tianhao-wu/avatar_hu8172430057177850812.jpg</url>
+      <url>https://ibreeding.cn/author/tianhao-wu/avatar_hu8172430057177850812.jpg</url>
       <title>Tianhao Wu</title>
-      <link>http://localhost:1313/author/tianhao-wu/</link>
+      <link>https://ibreeding.cn/author/tianhao-wu/</link>
     </image>
     
     <item>
       <title>Tianhao Wu</title>
-      <link>http://localhost:1313/author/tianhao-wu/</link>
+      <link>https://ibreeding.cn/author/tianhao-wu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/tianhao-wu/</guid>
+      <guid>https://ibreeding.cn/author/tianhao-wu/</guid>
       <description></description>
     </item>
     

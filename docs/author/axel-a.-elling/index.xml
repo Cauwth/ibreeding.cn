@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Axel A. Elling | WangLab_CAU</title>
-    <link>http://localhost:1313/author/axel-a.-elling/</link>
-      <atom:link href="http://localhost:1313/author/axel-a.-elling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/axel-a.-elling/</link>
+      <atom:link href="https://ibreeding.cn/author/axel-a.-elling/index.xml" rel="self" type="application/rss+xml" />
     <description>Axel A. Elling</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Axel A. Elling</title>
-      <link>http://localhost:1313/author/axel-a.-elling/</link>
+      <link>https://ibreeding.cn/author/axel-a.-elling/</link>
     </image>
     
     <item>
       <title>Genome-wide profiling of histone H3 lysine 9 acetylation and dimethylation in Arabidopsis reveals correlation between multiple histone marks and gene expression</title>
-      <link>http://localhost:1313/publication/zhou-2010-jan/</link>
+      <link>https://ibreeding.cn/publication/zhou-2010-jan/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhou-2010-jan/</guid>
+      <guid>https://ibreeding.cn/publication/zhou-2010-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Epigenetic and Transcriptional Trends among Two Rice Subspecies and Their Reciprocal Hybrids</title>
-      <link>http://localhost:1313/publication/he-2010-jan/</link>
+      <link>https://ibreeding.cn/publication/he-2010-jan/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/he-2010-jan/</guid>
+      <guid>https://ibreeding.cn/publication/he-2010-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-Wide and Organ-Specific Landscapes of Epigenetic Modifications and Their Relationships to mRNA and Small RNA Transcriptomes in Maize</title>
-      <link>http://localhost:1313/publication/wang-2009-apr/</link>
+      <link>https://ibreeding.cn/publication/wang-2009-apr/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2009-apr/</guid>
+      <guid>https://ibreeding.cn/publication/wang-2009-apr/</guid>
       <description></description>
     </item>
     

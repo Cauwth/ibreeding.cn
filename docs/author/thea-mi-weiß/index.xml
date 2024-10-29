@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thea Mi Weiß | WangLab_CAU</title>
-    <link>http://localhost:1313/author/thea-mi-wei%C3%9F/</link>
-      <atom:link href="http://localhost:1313/author/thea-mi-wei%C3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/thea-mi-wei%C3%9F/</link>
+      <atom:link href="https://ibreeding.cn/author/thea-mi-wei%C3%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>Thea Mi Weiß</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Thea Mi Weiß</title>
-      <link>http://localhost:1313/author/thea-mi-wei%C3%9F/</link>
+      <link>https://ibreeding.cn/author/thea-mi-wei%C3%9F/</link>
     </image>
     
     <item>
       <title>A QTL atlas for grain yield and its component traits in maize ( Zea mays )</title>
-      <link>http://localhost:1313/publication/zhou-2020-mar/</link>
+      <link>https://ibreeding.cn/publication/zhou-2020-mar/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhou-2020-mar/</guid>
+      <guid>https://ibreeding.cn/publication/zhou-2020-mar/</guid>
       <description></description>
     </item>
     

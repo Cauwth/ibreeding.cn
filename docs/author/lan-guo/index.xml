@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lan Guo | WangLab_CAU</title>
-    <link>http://localhost:1313/author/lan-guo/</link>
-      <atom:link href="http://localhost:1313/author/lan-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/lan-guo/</link>
+      <atom:link href="https://ibreeding.cn/author/lan-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Lan Guo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Lan Guo</title>
-      <link>http://localhost:1313/author/lan-guo/</link>
+      <link>https://ibreeding.cn/author/lan-guo/</link>
     </image>
     
     <item>
       <title>Global Epigenetic and Transcriptional Trends among Two Rice Subspecies and Their Reciprocal Hybrids</title>
-      <link>http://localhost:1313/publication/he-2010-jan/</link>
+      <link>https://ibreeding.cn/publication/he-2010-jan/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/he-2010-jan/</guid>
+      <guid>https://ibreeding.cn/publication/he-2010-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integration of Cytological Features with Molecular and Epigenetic Properties of Rice Chromosome 4</title>
-      <link>http://localhost:1313/publication/yin-2008-aug/</link>
+      <link>https://ibreeding.cn/publication/yin-2008-aug/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yin-2008-aug/</guid>
+      <guid>https://ibreeding.cn/publication/yin-2008-aug/</guid>
       <description></description>
     </item>
     

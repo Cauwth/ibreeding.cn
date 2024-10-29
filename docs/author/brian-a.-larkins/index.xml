@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian A. Larkins | WangLab_CAU</title>
-    <link>http://localhost:1313/author/brian-a.-larkins/</link>
-      <atom:link href="http://localhost:1313/author/brian-a.-larkins/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/brian-a.-larkins/</link>
+      <atom:link href="https://ibreeding.cn/author/brian-a.-larkins/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian A. Larkins</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Brian A. Larkins</title>
-      <link>http://localhost:1313/author/brian-a.-larkins/</link>
+      <link>https://ibreeding.cn/author/brian-a.-larkins/</link>
     </image>
     
     <item>
       <title>Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm</title>
-      <link>http://localhost:1313/publication/zhan-2018-sep/</link>
+      <link>https://ibreeding.cn/publication/zhan-2018-sep/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhan-2018-sep/</guid>
+      <guid>https://ibreeding.cn/publication/zhan-2018-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Expression of Imprinted Genes Associates with Maternally Controlled Nutrient Allocation during Maize Endosperm Development</title>
-      <link>http://localhost:1313/publication/xin-2013-sep/</link>
+      <link>https://ibreeding.cn/publication/xin-2013-sep/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xin-2013-sep/</guid>
+      <guid>https://ibreeding.cn/publication/xin-2013-sep/</guid>
       <description></description>
     </item>
     

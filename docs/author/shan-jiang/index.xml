@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shan Jiang | WangLab_CAU</title>
-    <link>http://localhost:1313/author/shan-jiang/</link>
-      <atom:link href="http://localhost:1313/author/shan-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/shan-jiang/</link>
+      <atom:link href="https://ibreeding.cn/author/shan-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shan Jiang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/shan-jiang/avatar_hu15196216248179317242.jpg</url>
+      <url>https://ibreeding.cn/author/shan-jiang/avatar_hu15196216248179317242.jpg</url>
       <title>Shan Jiang</title>
-      <link>http://localhost:1313/author/shan-jiang/</link>
+      <link>https://ibreeding.cn/author/shan-jiang/</link>
     </image>
     
     <item>
       <title>G2P Provides an Integrative Environment for Multi-model genomic selection analysis to improve genotype-to-phenotype prediction</title>
-      <link>http://localhost:1313/publication/wang-2023/</link>
+      <link>https://ibreeding.cn/publication/wang-2023/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2023/</guid>
+      <guid>https://ibreeding.cn/publication/wang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shan Jiang</title>
-      <link>http://localhost:1313/author/shan-jiang/</link>
+      <link>https://ibreeding.cn/author/shan-jiang/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/shan-jiang/</guid>
+      <guid>https://ibreeding.cn/author/shan-jiang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IP4GS:Bringing genomic selection analysis to breedersBringing genomic selection analysis to breeders</title>
-      <link>http://localhost:1313/publication/li-2023/</link>
+      <link>https://ibreeding.cn/publication/li-2023/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2023/</guid>
+      <guid>https://ibreeding.cn/publication/li-2023/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoyan Tang | WangLab_CAU</title>
-    <link>http://localhost:1313/author/xiaoyan-tang/</link>
-      <atom:link href="http://localhost:1313/author/xiaoyan-tang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/xiaoyan-tang/</link>
+      <atom:link href="https://ibreeding.cn/author/xiaoyan-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoyan Tang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Xiaoyan Tang</title>
-      <link>http://localhost:1313/author/xiaoyan-tang/</link>
+      <link>https://ibreeding.cn/author/xiaoyan-tang/</link>
     </image>
     
     <item>
       <title>Divergent selection and genetic introgression shape the genome landscape of heterosis in hybrid rice</title>
-      <link>http://localhost:1313/publication/lin-2020-feb/</link>
+      <link>https://ibreeding.cn/publication/lin-2020-feb/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin-2020-feb/</guid>
+      <guid>https://ibreeding.cn/publication/lin-2020-feb/</guid>
       <description></description>
     </item>
     

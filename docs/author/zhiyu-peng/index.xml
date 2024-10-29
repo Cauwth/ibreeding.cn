@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhiyu Peng | WangLab_CAU</title>
-    <link>http://localhost:1313/author/zhiyu-peng/</link>
-      <atom:link href="http://localhost:1313/author/zhiyu-peng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/zhiyu-peng/</link>
+      <atom:link href="https://ibreeding.cn/author/zhiyu-peng/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiyu Peng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Zhiyu Peng</title>
-      <link>http://localhost:1313/author/zhiyu-peng/</link>
+      <link>https://ibreeding.cn/author/zhiyu-peng/</link>
     </image>
     
     <item>
       <title>Genome-Wide and Organ-Specific Landscapes of Epigenetic Modifications and Their Relationships to mRNA and Small RNA Transcriptomes in Maize</title>
-      <link>http://localhost:1313/publication/wang-2009-apr/</link>
+      <link>https://ibreeding.cn/publication/wang-2009-apr/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2009-apr/</guid>
+      <guid>https://ibreeding.cn/publication/wang-2009-apr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiling microarray analysis of rice chromosome 10 to identify the transcriptome and relate its expression to chromosomal architecture</title>
-      <link>http://localhost:1313/publication/li-2005-may/</link>
+      <link>https://ibreeding.cn/publication/li-2005-may/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2005-may/</guid>
+      <guid>https://ibreeding.cn/publication/li-2005-may/</guid>
       <description></description>
     </item>
     

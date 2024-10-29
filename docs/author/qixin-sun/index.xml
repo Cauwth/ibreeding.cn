@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qixin Sun | WangLab_CAU</title>
-    <link>http://localhost:1313/author/qixin-sun/</link>
-      <atom:link href="http://localhost:1313/author/qixin-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/qixin-sun/</link>
+      <atom:link href="https://ibreeding.cn/author/qixin-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Qixin Sun</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Qixin Sun</title>
-      <link>http://localhost:1313/author/qixin-sun/</link>
+      <link>https://ibreeding.cn/author/qixin-sun/</link>
     </image>
     
     <item>
       <title>Temporal small RNA transcriptome profiling unraveled partitioned miRNA expression in developing maize endosperms between reciprocal crosses</title>
-      <link>http://localhost:1313/publication/xin-2015-sep/</link>
+      <link>https://ibreeding.cn/publication/xin-2015-sep/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xin-2015-sep/</guid>
+      <guid>https://ibreeding.cn/publication/xin-2015-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic parent-of-origin effects on small interfering RNA expression in the developing maize endosperm</title>
-      <link>http://localhost:1313/publication/xin-2014-jul/</link>
+      <link>https://ibreeding.cn/publication/xin-2014-jul/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xin-2014-jul/</guid>
+      <guid>https://ibreeding.cn/publication/xin-2014-jul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Expression of Imprinted Genes Associates with Maternally Controlled Nutrient Allocation during Maize Endosperm Development</title>
-      <link>http://localhost:1313/publication/xin-2013-sep/</link>
+      <link>https://ibreeding.cn/publication/xin-2013-sep/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xin-2013-sep/</guid>
+      <guid>https://ibreeding.cn/publication/xin-2013-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Comparison of Susceptible and Resistant Wheat in Response to Powdery Mildew Infection</title>
-      <link>http://localhost:1313/publication/xin-2012-jun/</link>
+      <link>https://ibreeding.cn/publication/xin-2012-jun/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xin-2012-jun/</guid>
+      <guid>https://ibreeding.cn/publication/xin-2012-jun/</guid>
       <description></description>
     </item>
     
