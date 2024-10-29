@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS
+role: PhD. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MS
+  - course: PhD. Candidate
     institution: China Agricultural University
     year: 2023 -
   - course: BSc
@@ -63,5 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MS
+- PhD. Candidates
 ---
