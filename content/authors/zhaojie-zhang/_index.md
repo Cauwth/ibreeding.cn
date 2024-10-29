@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yu Li
+title: Zhaojie Zhang
 
 # Username (this should match the folder name)
 authors:
-- yu-li
+- zhaojie-zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: PhD.Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,13 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD.Candidate
+  - course: PhD. Candidate
     institution: China Agricultural University
-    year: 2023 -
+    year: 2024 -
   - course: BSc
-    institution: Henan Agricultural University
-    year: 2019 - 2023
-
+    institution: China Agricultural University
+    year: 2021 - 2025
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
