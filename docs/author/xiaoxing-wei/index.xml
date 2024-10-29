@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoxing Wei | WangLab_CAU</title>
-    <link>http://localhost:1313/author/xiaoxing-wei/</link>
-      <atom:link href="http://localhost:1313/author/xiaoxing-wei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/xiaoxing-wei/</link>
+      <atom:link href="https://ibreeding.cn/author/xiaoxing-wei/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoxing Wei</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/xiaoxing-wei/avatar_hu15936320689184686313.jpg</url>
+      <url>https://ibreeding.cn/author/xiaoxing-wei/avatar_hu15936320689184686313.jpg</url>
       <title>Xiaoxing Wei</title>
-      <link>http://localhost:1313/author/xiaoxing-wei/</link>
+      <link>https://ibreeding.cn/author/xiaoxing-wei/</link>
     </image>
     
     <item>
       <title>Machine Learning Models for Genetic Risk Assessment of Infants with Non-syndromic Orofacial Cleft</title>
-      <link>http://localhost:1313/publication/zhang-2018-dec/</link>
+      <link>https://ibreeding.cn/publication/zhang-2018-dec/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2018-dec/</guid>
+      <guid>https://ibreeding.cn/publication/zhang-2018-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Computational Workflow to Identify Allele-specific Expression and Epigenetic Modification in Maize</title>
-      <link>http://localhost:1313/publication/wei-2013-jul/</link>
+      <link>https://ibreeding.cn/publication/wei-2013-jul/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wei-2013-jul/</guid>
+      <guid>https://ibreeding.cn/publication/wei-2013-jul/</guid>
       <description></description>
     </item>
     

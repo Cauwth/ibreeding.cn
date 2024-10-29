@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches | WangLab_CAU</title>
-    <link>http://localhost:1313/research/</link>
-      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/research/</link>
+      <atom:link href="https://ibreeding.cn/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Researches</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://ibreeding.cn/research/</link>
     </image>
     
     <item>
       <title>Bioinformatics</title>
-      <link>http://localhost:1313/research/bioinformatics/</link>
+      <link>https://ibreeding.cn/research/bioinformatics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/bioinformatics/</guid>
+      <guid>https://ibreeding.cn/research/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crop Genomics</title>
-      <link>http://localhost:1313/research/crop-genomics/</link>
+      <link>https://ibreeding.cn/research/crop-genomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/crop-genomics/</guid>
+      <guid>https://ibreeding.cn/research/crop-genomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomic Breeding</title>
-      <link>http://localhost:1313/research/genomic-breeding/</link>
+      <link>https://ibreeding.cn/research/genomic-breeding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/genomic-breeding/</guid>
+      <guid>https://ibreeding.cn/research/genomic-breeding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Health</title>
-      <link>http://localhost:1313/research/human-health/</link>
+      <link>https://ibreeding.cn/research/human-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/human-health/</guid>
+      <guid>https://ibreeding.cn/research/human-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population Genetics</title>
-      <link>http://localhost:1313/research/population-genetics/</link>
+      <link>https://ibreeding.cn/research/population-genetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/population-genetics/</guid>
+      <guid>https://ibreeding.cn/research/population-genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems Biology</title>
-      <link>http://localhost:1313/research/systems-biology/</link>
+      <link>https://ibreeding.cn/research/systems-biology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/systems-biology/</guid>
+      <guid>https://ibreeding.cn/research/systems-biology/</guid>
       <description></description>
     </item>
     

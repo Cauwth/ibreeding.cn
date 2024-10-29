@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junpeng Zhan | WangLab_CAU</title>
-    <link>http://localhost:1313/author/junpeng-zhan/</link>
-      <atom:link href="http://localhost:1313/author/junpeng-zhan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/junpeng-zhan/</link>
+      <atom:link href="https://ibreeding.cn/author/junpeng-zhan/index.xml" rel="self" type="application/rss+xml" />
     <description>Junpeng Zhan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/junpeng-zhan/avatar_hu6135728511906607824.jpg</url>
+      <url>https://ibreeding.cn/author/junpeng-zhan/avatar_hu6135728511906607824.jpg</url>
       <title>Junpeng Zhan</title>
-      <link>http://localhost:1313/author/junpeng-zhan/</link>
+      <link>https://ibreeding.cn/author/junpeng-zhan/</link>
     </image>
     
     <item>
       <title>Junpeng Zhan</title>
-      <link>http://localhost:1313/author/junpeng-zhan/</link>
+      <link>https://ibreeding.cn/author/junpeng-zhan/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/junpeng-zhan/</guid>
+      <guid>https://ibreeding.cn/author/junpeng-zhan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm</title>
-      <link>http://localhost:1313/publication/zhan-2018-sep/</link>
+      <link>https://ibreeding.cn/publication/zhan-2018-sep/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhan-2018-sep/</guid>
+      <guid>https://ibreeding.cn/publication/zhan-2018-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RNA Sequencing of Laser-Capture Microdissected Compartments of the Maize Kernel Identifies Regulatory Modules Associated with Endosperm Cell Differentiation</title>
-      <link>http://localhost:1313/publication/zhan-2015-mar/</link>
+      <link>https://ibreeding.cn/publication/zhan-2015-mar/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhan-2015-mar/</guid>
+      <guid>https://ibreeding.cn/publication/zhan-2015-mar/</guid>
       <description></description>
     </item>
     

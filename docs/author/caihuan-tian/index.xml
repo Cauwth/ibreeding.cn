@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caihuan Tian | WangLab_CAU</title>
-    <link>http://localhost:1313/author/caihuan-tian/</link>
-      <atom:link href="http://localhost:1313/author/caihuan-tian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/caihuan-tian/</link>
+      <atom:link href="https://ibreeding.cn/author/caihuan-tian/index.xml" rel="self" type="application/rss+xml" />
     <description>Caihuan Tian</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Caihuan Tian</title>
-      <link>http://localhost:1313/author/caihuan-tian/</link>
+      <link>https://ibreeding.cn/author/caihuan-tian/</link>
     </image>
     
     <item>
       <title>Transcriptome Association Identifies Regulators of Wheat Spike Architecture</title>
-      <link>http://localhost:1313/publication/wang-2017-aug/</link>
+      <link>https://ibreeding.cn/publication/wang-2017-aug/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2017-aug/</guid>
+      <guid>https://ibreeding.cn/publication/wang-2017-aug/</guid>
       <description></description>
     </item>
     

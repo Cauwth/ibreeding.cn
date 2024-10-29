@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hao Helen Zhang | WangLab_CAU</title>
-    <link>http://localhost:1313/author/hao-helen-zhang/</link>
-      <atom:link href="http://localhost:1313/author/hao-helen-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/hao-helen-zhang/</link>
+      <atom:link href="https://ibreeding.cn/author/hao-helen-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Helen Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
+      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Hao Helen Zhang</title>
-      <link>http://localhost:1313/author/hao-helen-zhang/</link>
+      <link>https://ibreeding.cn/author/hao-helen-zhang/</link>
     </image>
     
     <item>
       <title>Machine learning for Big Data analytics in plants</title>
-      <link>http://localhost:1313/publication/ma-2014-sep/</link>
+      <link>https://ibreeding.cn/publication/ma-2014-sep/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ma-2014-sep/</guid>
+      <guid>https://ibreeding.cn/publication/ma-2014-sep/</guid>
       <description></description>
     </item>
     

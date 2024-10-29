@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tian Jiang | WangLab_CAU</title>
-    <link>http://localhost:1313/author/tian-jiang/</link>
-      <atom:link href="http://localhost:1313/author/tian-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ibreeding.cn/author/tian-jiang/</link>
+      <atom:link href="https://ibreeding.cn/author/tian-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Tian Jiang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/tian-jiang/avatar_hu1006413719431390117.jpg</url>
+      <url>https://ibreeding.cn/author/tian-jiang/avatar_hu1006413719431390117.jpg</url>
       <title>Tian Jiang</title>
-      <link>http://localhost:1313/author/tian-jiang/</link>
+      <link>https://ibreeding.cn/author/tian-jiang/</link>
     </image>
     
     <item>
       <title>Tian Jiang</title>
-      <link>http://localhost:1313/author/tian-jiang/</link>
+      <link>https://ibreeding.cn/author/tian-jiang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/tian-jiang/</guid>
+      <guid>https://ibreeding.cn/author/tian-jiang/</guid>
       <description></description>
     </item>
     
