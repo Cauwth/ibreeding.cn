@@ -5,6 +5,7 @@
 
 title: WangLab_CAU # Website name
 baseURL: 'https://ibreeding.cn/' # Website URL
+publishDir: './docs'
 
 ############################
 ## LANGUAGE
