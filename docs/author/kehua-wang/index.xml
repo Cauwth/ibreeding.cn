@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kehua Wang | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/kehua-wang/</link>
-      <atom:link href="https://ibreeding.cn/author/kehua-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/kehua-wang/</link>
+      <atom:link href="http://localhost:1313/author/kehua-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kehua Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Kehua Wang</title>
-      <link>https://ibreeding.cn/author/kehua-wang/</link>
+      <link>http://localhost:1313/author/kehua-wang/</link>
     </image>
     
     <item>
       <title>The genome of the warm-season turfgrass African bermudagrass (Cynodon transvaalensis)</title>
-      <link>https://ibreeding.cn/publication/cui-2021/</link>
+      <link>http://localhost:1313/publication/cui-2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/cui-2021/</guid>
+      <guid>http://localhost:1313/publication/cui-2021/</guid>
       <description></description>
     </item>
     

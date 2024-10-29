@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William Terzaghi | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/william-terzaghi/</link>
-      <atom:link href="https://ibreeding.cn/author/william-terzaghi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/william-terzaghi/</link>
+      <atom:link href="http://localhost:1313/author/william-terzaghi/index.xml" rel="self" type="application/rss+xml" />
     <description>William Terzaghi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>William Terzaghi</title>
-      <link>https://ibreeding.cn/author/william-terzaghi/</link>
+      <link>http://localhost:1313/author/william-terzaghi/</link>
     </image>
     
     <item>
       <title>Integration of Cytological Features with Molecular and Epigenetic Properties of Rice Chromosome 4</title>
-      <link>https://ibreeding.cn/publication/yin-2008-aug/</link>
+      <link>http://localhost:1313/publication/yin-2008-aug/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yin-2008-aug/</guid>
+      <guid>http://localhost:1313/publication/yin-2008-aug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Resolution Mapping of Epigenetic Modifications of the Rice Genome Uncovers Interplay between DNA Methylation, Histone Methylation, and Gene Expression</title>
-      <link>https://ibreeding.cn/publication/li-2008-feb/</link>
+      <link>http://localhost:1313/publication/li-2008-feb/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2008-feb/</guid>
+      <guid>http://localhost:1313/publication/li-2008-feb/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Choong-Hwan Ryu | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/choong-hwan-ryu/</link>
-      <atom:link href="https://ibreeding.cn/author/choong-hwan-ryu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/choong-hwan-ryu/</link>
+      <atom:link href="http://localhost:1313/author/choong-hwan-ryu/index.xml" rel="self" type="application/rss+xml" />
     <description>Choong-Hwan Ryu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Choong-Hwan Ryu</title>
-      <link>https://ibreeding.cn/author/choong-hwan-ryu/</link>
+      <link>http://localhost:1313/author/choong-hwan-ryu/</link>
     </image>
     
     <item>
       <title>Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm</title>
-      <link>https://ibreeding.cn/publication/zhan-2018-sep/</link>
+      <link>http://localhost:1313/publication/zhan-2018-sep/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhan-2018-sep/</guid>
+      <guid>http://localhost:1313/publication/zhan-2018-sep/</guid>
       <description></description>
     </item>
     

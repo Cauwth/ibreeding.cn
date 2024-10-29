@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qifa Zhang | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/qifa-zhang/</link>
-      <atom:link href="https://ibreeding.cn/author/qifa-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/qifa-zhang/</link>
+      <atom:link href="http://localhost:1313/author/qifa-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Qifa Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Qifa Zhang</title>
-      <link>https://ibreeding.cn/author/qifa-zhang/</link>
+      <link>http://localhost:1313/author/qifa-zhang/</link>
     </image>
     
     <item>
       <title>Global genome expression analysis of rice in response to drought and high-salinity stresses in shoot, flag leaf, and panicle</title>
-      <link>https://ibreeding.cn/publication/zhou-2007-jan/</link>
+      <link>http://localhost:1313/publication/zhou-2007-jan/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhou-2007-jan/</guid>
+      <guid>http://localhost:1313/publication/zhou-2007-jan/</guid>
       <description></description>
     </item>
     

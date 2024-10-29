@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | WangLab_CAU</title>
-    <link>https://ibreeding.cn/project/</link>
-      <atom:link href="https://ibreeding.cn/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Projects</title>
-      <link>https://ibreeding.cn/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>G2P</title>
-      <link>https://ibreeding.cn/project/g2p/</link>
+      <link>http://localhost:1313/project/g2p/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/g2p/</guid>
+      <guid>http://localhost:1313/project/g2p/</guid>
       <description>&lt;h2 id=&#34;refinement-design-of-the-training-set-in-which-g2p-optimizes-the-training-set-based-on-the-genetic-diversity-analysis-of-a-studied-population-although-the-training-samples-in-the-optimized-set-are-fewer-than-in-the-original-set-the-prediction-precision-is-almost-equivalent-to-that-obtained-when-using-the-whole-set-this-functionality-is-quite-useful-in-practice-as-it-reduces-the-cost-of-phenotyping-when-constructing-training-population-the-g2p-container-and-source-codes-are-freely-accessible-at-httpsg2p-envgithubio&#34;&gt;G2P works as an integrative environment offering comprehensive, unbiased evaluation analyses of the 16 GS models, which may be run in parallel on high-performance computing clusters. Based
 on the evaluation outcome, G2P performs auto-ensemble algorithms that not only can automatically select the most precise models but also can integrate prediction results from multiple models. This functionality should further improve the precision of G2P prediction. Another noteworthy function is the
 refinement design of the training set, in which G2P optimizes the training set based on the genetic diversity analysis of a studied population. Although the training samples in the optimized set are fewer than in the original set, the prediction precision is almost equivalent to that obtained when using the whole set. This functionality is quite useful in practice, as it reduces the cost of phenotyping when constructing training population. The G2P container and source codes are freely accessible at &lt;a href=&#34;https://g2p-env.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://g2p-env.github.io/&lt;/a&gt;&lt;/h2&gt;
@@ -25,9 +25,9 @@ refinement design of the training set, in which G2P optimizes the training set b
     
     <item>
       <title>IP4GS</title>
-      <link>https://ibreeding.cn/project/ip4gs/</link>
+      <link>http://localhost:1313/project/ip4gs/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/ip4gs/</guid>
+      <guid>http://localhost:1313/project/ip4gs/</guid>
       <description>&lt;p&gt;A shiny-based
 application usually consists of two parts, a user-interface (UI) script
 (IP4GS_UI.r for IP4GS) and a server script (IP4GS_server.r for
@@ -40,9 +40,9 @@ server script plays an important role in shiny-based applications. All functions
     
     <item>
       <title>GOVS</title>
-      <link>https://ibreeding.cn/project/govs/</link>
+      <link>http://localhost:1313/project/govs/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/govs/</guid>
+      <guid>http://localhost:1313/project/govs/</guid>
       <description>&lt;p&gt;GOVS (&lt;span style=&#34;color:red&#34;&gt;G&lt;/span&gt;enome &lt;span style=&#34;color:red&#34;&gt;O&lt;/span&gt;ptimization via &lt;span style=&#34;color:red&#34;&gt;V&lt;/span&gt;irtual &lt;span style=&#34;color:red&#34;&gt;S&lt;/span&gt;imulation) is an integrative R package for maize breeding that streamlines genome optimization via virtual simulation achieve guidance of lines selection and population development. GOVS describes a promising strategy that can help breeders to select materials in a purposeful and directional manner, with the purpose of enabling breeders to combine others technologies with rapidly genetic gain benefit by genome optimization.Above figure illustrate the framework of GOVS, GOVS consists of four main modules:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#genome-optimization-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome optimization module&lt;/a&gt; for virtual simulation of optimal genome.&lt;/li&gt;
@@ -50,16 +50,16 @@ server script plays an important role in shiny-based applications. All functions
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#statistic-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistic module&lt;/a&gt; for contribution statistic of virtual genome.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#genome-selection-prediciton-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome prediction module&lt;/a&gt; for genotype-to-phenotype prediction of optimal genome.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;GOVS was developed by &lt;a href=&#34;https://ibreeding.cn/authors/qian-cheng/&#34;&gt;Qian Cheng&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;GOVS was developed by &lt;a href=&#34;http://localhost:1313/authors/qian-cheng/&#34;&gt;Qian Cheng&lt;/a&gt; in 2021.&lt;/p&gt;
 &lt;p&gt;Please read the &lt;a href=&#34;https://govs-pack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>African bermudagrass</title>
-      <link>https://ibreeding.cn/project/african-bermudagrass/</link>
+      <link>http://localhost:1313/project/african-bermudagrass/</link>
       <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/african-bermudagrass/</guid>
+      <guid>http://localhost:1313/project/african-bermudagrass/</guid>
       <description>&lt;h2 id=&#34;assembly-and-annotation-of-african-bermudagrass-cynodon-transvaalensis&#34;&gt;Assembly and annotation of African bermudagrass (Cynodon transvaalensis)&lt;/h2&gt;
 &lt;h3 id=&#34;program-description&#34;&gt;Program description&lt;/h3&gt;
 &lt;p&gt;Cynodon species can be used for multiple purposes and have high economic and ecological significance. However, the genetic basis of the favorable agronomic traits of Cynodon species is poorly understood, partially due to the limited availability of genomic resources. In this study, we report a chromosome-scale genome assembly of a diploid Cynodon species, C. transvaalensis, obtained by combining Illumina and Nanopore sequencing, BioNano, and Hi-C. The assembly contains 282 scaffolds (~423.42 Mb, N50 = 5.37 Mb), which cover ~93.2% of the estimated genome of C. transvaalensis (~454.4 Mb). Furthermore, 90.48% of the scaffolds (~383.08 Mb) were anchored to nine pseudomolecules, of which the largest was 60.78 Mb in length. Evolutionary analysis along with transcriptome comparison provided a preliminary genomic basis for the adaptation of this species to tropical and/or subtropical climates, typically with dry summers. The genomic resources generated in this study will not only facilitate evolutionary studies of the Chloridoideae subfamily, in particular, the Cynodonteae tribe, but also facilitate functional genomic research and genetic breeding in Cynodon species for new leading turfgrass cultivars in the future.&lt;/p&gt;
@@ -76,7 +76,7 @@ server script plays an important role in shiny-based applications. All functions
 &lt;p&gt;MD5sum: 9ac0b69e64f6cdf7b25a3be1238732e8&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;African bermudagrass genome was assebled by &lt;a href=&#34;https://ibreeding.cn/authors/fengchao-cui/&#34;&gt;Fengchao Cui&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;African bermudagrass genome was assebled by &lt;a href=&#34;http://localhost:1313/authors/fengchao-cui/&#34;&gt;Fengchao Cui&lt;/a&gt; in 2020.&lt;/p&gt;
 &lt;p&gt;For details, please refer to &lt;em&gt;&lt;a href=&#34;https://doi.org/10.1038/s41438-021-00519-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The genome of the warm-season turfgrass African
 bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the &amp;ldquo;pdf&amp;rdquo; button below the title!&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@ bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the 
     
     <item>
       <title>CropGBM</title>
-      <link>https://ibreeding.cn/project/cropgbm/</link>
+      <link>http://localhost:1313/project/cropgbm/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/cropgbm/</guid>
+      <guid>http://localhost:1313/project/cropgbm/</guid>
       <description>&lt;p&gt;Crop Genomic Breeding machine (CropGBM) is a multifunctional program that integrates data preprocessing, population structure analysis, SNP selection, phenotype prediction, and data visualization. Has the following advantages:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Use LightGBM algorithm to quickly and accurately predict phenotype values and support GPU-accelerated training.&lt;/li&gt;
@@ -95,59 +95,59 @@ bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the 
 &lt;li&gt;Support Kmeans and OPTICS two clustering algorithms to analyze the sample population structure.&lt;/li&gt;
 &lt;li&gt;Plot histograms of heterozygosity rate, deletion rate, and frequency of alleles for genotype data.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;CropGBM was developed by &lt;a href=&#34;https://ibreeding.cn/authors/yuetong-xu/&#34;&gt;Yuetong Xu&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;CropGBM was developed by &lt;a href=&#34;http://localhost:1313/authors/yuetong-xu/&#34;&gt;Yuetong Xu&lt;/a&gt; in 2020.&lt;/p&gt;
 &lt;p&gt;Please read the &lt;a href=&#34;https://ibreeding.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CrusView</title>
-      <link>https://ibreeding.cn/project/crusview/</link>
+      <link>http://localhost:1313/project/crusview/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/crusview/</guid>
+      <guid>http://localhost:1313/project/crusview/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.cmbb.arizona.edu/CrusView/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CrusView&lt;/a&gt; is a Java-based bioinformatic application utilizing Standard Widget Toolkit/Swing graphics libraries and a SQLite database for performing visualized analyses of comparative genomics data in Brassicaceae (crucifer) plants.&lt;/p&gt;
 &lt;p&gt;Compared with similar software and databases, one of the unique features of CrusView is its integration of karyotype information when comparing two genomes. This feature allows users to perform karyotype-based genome assembly and karyotype-assisted genome synteny analyses with preset karyotype patterns of the Brassicaceae genomes. Additionally, CrusView is a local program, which gives its users high flexibility when analyzing unpublished genomes and allows users to upload self-defined genomic information so that they can visually study the associations between genome structural variations and genetic elements, including chromosomal rearrangements, genomic macrosynteny, gene families, high-frequency recombination sites, and tandem and segmental duplications between related species. This tool will greatly facilitate karyotype, chromosome, and genome evolution studies using visualized comparative genomics approaches in Brassicaceae species.&lt;/p&gt;
-&lt;p&gt;CrusView was developed by &lt;a href=&#34;https://ibreeding.cn/authors/hao-chen/&#34;&gt;Hao Chen&lt;/a&gt; in 2013.&lt;/p&gt;
+&lt;p&gt;CrusView was developed by &lt;a href=&#34;http://localhost:1313/authors/hao-chen/&#34;&gt;Hao Chen&lt;/a&gt; in 2013.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KGBassembler</title>
-      <link>https://ibreeding.cn/project/kgbassembler/</link>
+      <link>http://localhost:1313/project/kgbassembler/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/kgbassembler/</guid>
+      <guid>http://localhost:1313/project/kgbassembler/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.cmbb.arizona.edu/KGBassembler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGBassembler&lt;/a&gt; is a tool used to assemble full chromosomes from scaffolds if a karyotype is provided. The KGBassembler is featured with a user-friendly graphical user interface (GUI), allowing users to use automatic assembling of chromosomes based on CCP-based karyotypes and/or to manually edit the layouts of contigs according to in silico generated karyotypes. KGBassembler runs in three steps (Phases I–III). Phase I (Contigs2Blocks) is to identify the 24 blocks in contigs via analyzing BLAT alignments using two algorithms: local and global search. KGBassembler was implemented in C++ with a GUI built with the open-source QT toolbox.&lt;/p&gt;
-&lt;p&gt;KGBassembler was developed by &lt;a href=&#34;https://ibreeding.cn/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2011&lt;/p&gt;
+&lt;p&gt;KGBassembler was developed by &lt;a href=&#34;http://localhost:1313/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>mlDNA</title>
-      <link>https://ibreeding.cn/project/mldna/</link>
+      <link>http://localhost:1313/project/mldna/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/mldna/</guid>
+      <guid>http://localhost:1313/project/mldna/</guid>
       <description>&lt;p&gt;Machine learning (ML) is an intelligent data mining technique that builds a prediction model based on the learning of prior knowledge to recognize patterns in large-scale data sets. We present an ML-based methodology for transcriptome analysis via comparison of gene coexpression networks, implemented as an R package called machine learning-based differential network analysis (&lt;a href=&#34;https://cran.r-project.org/web/packages/mlDNA/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mlDNA&lt;/a&gt;) and apply this method to reanalyze a set of abiotic stress expression data in Arabidopsis thaliana.&lt;/p&gt;
 &lt;p&gt;The mlDNA first used a ML-based filtering process to remove nonexpressed, constitutively expressed, or non-stress-responsive &amp;ldquo;noninformative&amp;rdquo; genes prior to network construction, through learning the patterns of 32 expression characteristics of known stress-related genes. The retained &amp;ldquo;informative&amp;rdquo; genes were subsequently analyzed by ML-based network comparison to predict candidate stress-related genes showing expression and network differences between control and stress networks, based on 33 network topological characteristics. Comparative evaluation of the network-centric and gene-centric analytic methods showed that mlDNA substantially outperformed traditional statistical testing-based differential expression analysis at identifying stress-related genes, with markedly improved prediction accuracy.&lt;/p&gt;
-&lt;p&gt;mlDNA was developed by &lt;a href=&#34;https://ibreeding.cn/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2013.&lt;/p&gt;
+&lt;p&gt;mlDNA was developed by &lt;a href=&#34;http://localhost:1313/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2013.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MODAS</title>
-      <link>https://ibreeding.cn/project/modas/</link>
+      <link>http://localhost:1313/project/modas/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/modas/</guid>
+      <guid>http://localhost:1313/project/modas/</guid>
       <description>&lt;p&gt;MODAS (Multi-Omics Data Association Study toolkit) is an efficient software for high-dimensional omics data association analysis. A major feature of MODAS is its novel genome-wide association analysis (GWAS) strategy for high-dimensional omics data. Firstly, MODAS generates pseudo-genotype files to reduce the dimensionality of the original SNP-based genotype data; then, it performs block-based GWAS to screen out the significantly associated genomic regions (SAGRs); finally, it performs SNP-based association analysis on the SAGRs to obtain the QTLs for the high-dimensional omics data. Another feature of MODAS is that it introduces Mendelian randomization algorithm to infer the genetic regulation relationship between omics-data related QTLs, which helps biological hypothesis establishment. Moreover, a HTML based web page is implemented in MODAS for the visualization and query of omics-data based GWAS results, which facilitate further gene function mining.&lt;/p&gt;
-&lt;p&gt;MODAS was developed by &lt;a href=&#34;https://ibreeding.cn/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;MODAS was developed by &lt;a href=&#34;http://localhost:1313/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
 &lt;p&gt;Please read the &lt;a href=&#34;https://modas-bio.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SR4R</title>
-      <link>https://ibreeding.cn/project/sr4r/</link>
+      <link>http://localhost:1313/project/sr4r/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/sr4r/</guid>
+      <guid>http://localhost:1313/project/sr4r/</guid>
       <description>&lt;h2 id=&#34;span-stylecolorredsr4rspan-span-stylecolorredsspannpspan-stylecolorredrspaneady-for-span-stylecolorredrspanice&#34;&gt;&lt;span style=&#34;color:red&#34;&gt;SR4R&lt;/span&gt;: &lt;span style=&#34;color:red&#34;&gt;S&lt;/span&gt;np&lt;span style=&#34;color:red&#34;&gt;R&lt;/span&gt;eady for &lt;span style=&#34;color:red&#34;&gt;R&lt;/span&gt;ice&lt;/h2&gt;
 &lt;h3 id=&#34;program-description&#34;&gt;Program description&lt;/h3&gt;
 &lt;p&gt;The SnpReady for Rice (SR4R) database presents four reference panels of SNPs and tools to satisfy different aspects of population genetics, evolutionary analysis, association studies and genomic breeding research for the rice (Oryza sativa) community.&lt;/p&gt;
@@ -158,18 +158,18 @@ bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the 
 &lt;li&gt;Golden SNPs &lt;a href=&#34;38Markers.hapmap.gz&#34;&gt;1180Markers.hapmap.gz&lt;/a&gt;(447K)&lt;/li&gt;
 &lt;li&gt;Barcode SNPs &lt;a href=&#34;38Markers.hapmap.gz&#34;&gt;38Markers.hapmap.gz&lt;/a&gt;(26K)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;SR4R was developed by &lt;a href=&#34;https://ibreeding.cn/authors/jun-yan/&#34;&gt;Jun Yan&lt;/a&gt; in 2019.&lt;/p&gt;
+&lt;p&gt;SR4R was developed by &lt;a href=&#34;http://localhost:1313/authors/jun-yan/&#34;&gt;Jun Yan&lt;/a&gt; in 2019.&lt;/p&gt;
 &lt;p&gt;Please read more in &lt;a href=&#34;http://sr4r.ic4r.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sr4r.ic4r.org/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>rsgcc</title>
-      <link>https://ibreeding.cn/project/rsgcc/</link>
+      <link>http://localhost:1313/project/rsgcc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/rsgcc/</guid>
+      <guid>http://localhost:1313/project/rsgcc/</guid>
       <description>&lt;p&gt;This package provides functions for calculating associations between two genes with five correlation methods(e.g., the Gini correlation coefficient [GCC], the Pearson&amp;rsquo;s product moment correlation coefficient [PCC], the Kendall tau rank correlation coefficient [KCC], the Spearman&amp;rsquo;s rank correlation coefficient [SCC] and the Tukey&amp;rsquo;s biweight correlation coefficient [BiWt], and three non-correlation methods (e.g., mutual information [MI] and the maximal information-based nonparametric exploration [MINE], and the euclidean distance [ED]). It can also been implemented to perform the correlation and clustering analysis of transcriptomic data profiled by microarray and RNA-Seq technologies. Additionally, this package can be further applied to construct gene co-expression networks (GCNs).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/rsgcc/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsgcc&lt;/a&gt; was developed by &lt;a href=&#34;https://ibreeding.cn/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/rsgcc/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsgcc&lt;/a&gt; was developed by &lt;a href=&#34;http://localhost:1313/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
 </description>
     </item>
     

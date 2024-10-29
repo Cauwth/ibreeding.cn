@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhongfu Ni | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/zhongfu-ni/</link>
-      <atom:link href="https://ibreeding.cn/author/zhongfu-ni/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zhongfu-ni/</link>
+      <atom:link href="http://localhost:1313/author/zhongfu-ni/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhongfu Ni</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Zhongfu Ni</title>
-      <link>https://ibreeding.cn/author/zhongfu-ni/</link>
+      <link>http://localhost:1313/author/zhongfu-ni/</link>
     </image>
     
     <item>
       <title>CGmapTools improves the precision of heterozygous SNV calls and supports allele-specific methylation detection and visualization in bisulfite-sequencing data</title>
-      <link>https://ibreeding.cn/publication/guo-2017-sep/</link>
+      <link>http://localhost:1313/publication/guo-2017-sep/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/guo-2017-sep/</guid>
+      <guid>http://localhost:1313/publication/guo-2017-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal small RNA transcriptome profiling unraveled partitioned miRNA expression in developing maize endosperms between reciprocal crosses</title>
-      <link>https://ibreeding.cn/publication/xin-2015-sep/</link>
+      <link>http://localhost:1313/publication/xin-2015-sep/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2015-sep/</guid>
+      <guid>http://localhost:1313/publication/xin-2015-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic parent-of-origin effects on small interfering RNA expression in the developing maize endosperm</title>
-      <link>https://ibreeding.cn/publication/xin-2014-jul/</link>
+      <link>http://localhost:1313/publication/xin-2014-jul/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2014-jul/</guid>
+      <guid>http://localhost:1313/publication/xin-2014-jul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Expression of Imprinted Genes Associates with Maternally Controlled Nutrient Allocation during Maize Endosperm Development</title>
-      <link>https://ibreeding.cn/publication/xin-2013-sep/</link>
+      <link>http://localhost:1313/publication/xin-2013-sep/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2013-sep/</guid>
+      <guid>http://localhost:1313/publication/xin-2013-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Comparison of Susceptible and Resistant Wheat in Response to Powdery Mildew Infection</title>
-      <link>https://ibreeding.cn/publication/xin-2012-jun/</link>
+      <link>http://localhost:1313/publication/xin-2012-jun/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2012-jun/</guid>
+      <guid>http://localhost:1313/publication/xin-2012-jun/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiunan Shi | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/xiunan-shi/</link>
-      <atom:link href="https://ibreeding.cn/author/xiunan-shi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xiunan-shi/</link>
+      <atom:link href="http://localhost:1313/author/xiunan-shi/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiunan Shi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ibreeding.cn/author/xiunan-shi/avatar_hu13056528242593826979.jpg</url>
+      <url>http://localhost:1313/author/xiunan-shi/avatar_hu13056528242593826979.jpg</url>
       <title>Xiunan Shi</title>
-      <link>https://ibreeding.cn/author/xiunan-shi/</link>
+      <link>http://localhost:1313/author/xiunan-shi/</link>
     </image>
     
     <item>
       <title>Xiunan Shi</title>
-      <link>https://ibreeding.cn/author/xiunan-shi/</link>
+      <link>http://localhost:1313/author/xiunan-shi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/author/xiunan-shi/</guid>
+      <guid>http://localhost:1313/author/xiunan-shi/</guid>
       <description></description>
     </item>
     

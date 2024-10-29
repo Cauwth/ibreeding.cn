@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremy Schmutz | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/jeremy-schmutz/</link>
-      <atom:link href="https://ibreeding.cn/author/jeremy-schmutz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jeremy-schmutz/</link>
+      <atom:link href="http://localhost:1313/author/jeremy-schmutz/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Schmutz</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Jeremy Schmutz</title>
-      <link>https://ibreeding.cn/author/jeremy-schmutz/</link>
+      <link>http://localhost:1313/author/jeremy-schmutz/</link>
     </image>
     
     <item>
       <title>The Reference Genome of the Halophytic Plant Eutrema salsugineum</title>
-      <link>https://ibreeding.cn/publication/yang-2013-mar/</link>
+      <link>http://localhost:1313/publication/yang-2013-mar/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yang-2013-mar/</guid>
+      <guid>http://localhost:1313/publication/yang-2013-mar/</guid>
       <description></description>
     </item>
     

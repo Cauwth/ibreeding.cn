@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Xin | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/m.-xin/</link>
-      <atom:link href="https://ibreeding.cn/author/m.-xin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/m.-xin/</link>
+      <atom:link href="http://localhost:1313/author/m.-xin/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Xin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>M. Xin</title>
-      <link>https://ibreeding.cn/author/m.-xin/</link>
+      <link>http://localhost:1313/author/m.-xin/</link>
     </image>
     
     <item>
       <title>KGBassembler: a karyotype-based genome assembler for Brassicaceae species</title>
-      <link>https://ibreeding.cn/publication/ma-2012-oct/</link>
+      <link>http://localhost:1313/publication/ma-2012-oct/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/ma-2012-oct/</guid>
+      <guid>http://localhost:1313/publication/ma-2012-oct/</guid>
       <description></description>
     </item>
     

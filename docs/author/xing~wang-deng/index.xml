@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xing~Wang Deng | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/xing~wang-deng/</link>
-      <atom:link href="https://ibreeding.cn/author/xing~wang-deng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xing~wang-deng/</link>
+      <atom:link href="http://localhost:1313/author/xing~wang-deng/index.xml" rel="self" type="application/rss+xml" />
     <description>Xing~Wang Deng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Xing~Wang Deng</title>
-      <link>https://ibreeding.cn/author/xing~wang-deng/</link>
+      <link>http://localhost:1313/author/xing~wang-deng/</link>
     </image>
     
     <item>
       <title>Single-Molecule Sequencing Assists Genome Assembly Improvement and Structural Variation Inference</title>
-      <link>https://ibreeding.cn/publication/yan-2016-apr/</link>
+      <link>http://localhost:1313/publication/yan-2016-apr/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2016-apr/</guid>
+      <guid>http://localhost:1313/publication/yan-2016-apr/</guid>
       <description></description>
     </item>
     

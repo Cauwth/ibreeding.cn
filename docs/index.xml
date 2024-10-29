@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WangLab_CAU</title>
-    <link>https://ibreeding.cn/</link>
-      <atom:link href="https://ibreeding.cn/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>WangLab_CAU</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>WangLab_CAU</title>
-      <link>https://ibreeding.cn/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>https://ibreeding.cn/event/example/</link>
+      <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/event/example/</guid>
+      <guid>http://localhost:1313/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>G2P</title>
-      <link>https://ibreeding.cn/project/g2p/</link>
+      <link>http://localhost:1313/project/g2p/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/g2p/</guid>
+      <guid>http://localhost:1313/project/g2p/</guid>
       <description>&lt;h2 id=&#34;refinement-design-of-the-training-set-in-which-g2p-optimizes-the-training-set-based-on-the-genetic-diversity-analysis-of-a-studied-population-although-the-training-samples-in-the-optimized-set-are-fewer-than-in-the-original-set-the-prediction-precision-is-almost-equivalent-to-that-obtained-when-using-the-whole-set-this-functionality-is-quite-useful-in-practice-as-it-reduces-the-cost-of-phenotyping-when-constructing-training-population-the-g2p-container-and-source-codes-are-freely-accessible-at-httpsg2p-envgithubio&#34;&gt;G2P works as an integrative environment offering comprehensive, unbiased evaluation analyses of the 16 GS models, which may be run in parallel on high-performance computing clusters. Based
 on the evaluation outcome, G2P performs auto-ensemble algorithms that not only can automatically select the most precise models but also can integrate prediction results from multiple models. This functionality should further improve the precision of G2P prediction. Another noteworthy function is the
 refinement design of the training set, in which G2P optimizes the training set based on the genetic diversity analysis of a studied population. Although the training samples in the optimized set are fewer than in the original set, the prediction precision is almost equivalent to that obtained when using the whole set. This functionality is quite useful in practice, as it reduces the cost of phenotyping when constructing training population. The G2P container and source codes are freely accessible at &lt;a href=&#34;https://g2p-env.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://g2p-env.github.io/&lt;/a&gt;&lt;/h2&gt;
@@ -40,33 +40,33 @@ refinement design of the training set, in which G2P optimizes the training set b
     
     <item>
       <title>G2P Provides an Integrative Environment for Multi-model genomic selection analysis to improve genotype-to-phenotype prediction</title>
-      <link>https://ibreeding.cn/publication/wang-2023/</link>
+      <link>http://localhost:1313/publication/wang-2023/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2023/</guid>
+      <guid>http://localhost:1313/publication/wang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the influence of phenotypic plasticity on maize hybrid performance</title>
-      <link>https://ibreeding.cn/publication/fu-2023/</link>
+      <link>http://localhost:1313/publication/fu-2023/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/fu-2023/</guid>
+      <guid>http://localhost:1313/publication/fu-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IP4GS:Bringing genomic selection analysis to breedersBringing genomic selection analysis to breeders</title>
-      <link>https://ibreeding.cn/publication/li-2023/</link>
+      <link>http://localhost:1313/publication/li-2023/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2023/</guid>
+      <guid>http://localhost:1313/publication/li-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IP4GS</title>
-      <link>https://ibreeding.cn/project/ip4gs/</link>
+      <link>http://localhost:1313/project/ip4gs/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/ip4gs/</guid>
+      <guid>http://localhost:1313/project/ip4gs/</guid>
       <description>&lt;p&gt;A shiny-based
 application usually consists of two parts, a user-interface (UI) script
 (IP4GS_UI.r for IP4GS) and a server script (IP4GS_server.r for
@@ -79,57 +79,57 @@ server script plays an important role in shiny-based applications. All functions
     
     <item>
       <title>Contact</title>
-      <link>https://ibreeding.cn/contact-us/</link>
+      <link>http://localhost:1313/contact-us/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/contact-us/</guid>
+      <guid>http://localhost:1313/contact-us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://ibreeding.cn/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/people/</guid>
+      <guid>http://localhost:1313/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://ibreeding.cn/tour/</link>
+      <link>http://localhost:1313/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/tour/</guid>
+      <guid>http://localhost:1313/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning bridges omics sciences and plant breeding</title>
-      <link>https://ibreeding.cn/publication/yan-2022-sep/</link>
+      <link>http://localhost:1313/publication/yan-2022-sep/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2022-sep/</guid>
+      <guid>http://localhost:1313/publication/yan-2022-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised and semi-supervised learning: the next frontier in machine learning for plant systems biology</title>
-      <link>https://ibreeding.cn/publication/yan-2022/</link>
+      <link>http://localhost:1313/publication/yan-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2022/</guid>
+      <guid>http://localhost:1313/publication/yan-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MODAS: exploring maize germplasm with multi-omics data association studies</title>
-      <link>https://ibreeding.cn/publication/liu-2022/</link>
+      <link>http://localhost:1313/publication/liu-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/liu-2022/</guid>
+      <guid>http://localhost:1313/publication/liu-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GOVS</title>
-      <link>https://ibreeding.cn/project/govs/</link>
+      <link>http://localhost:1313/project/govs/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/govs/</guid>
+      <guid>http://localhost:1313/project/govs/</guid>
       <description>&lt;p&gt;GOVS (&lt;span style=&#34;color:red&#34;&gt;G&lt;/span&gt;enome &lt;span style=&#34;color:red&#34;&gt;O&lt;/span&gt;ptimization via &lt;span style=&#34;color:red&#34;&gt;V&lt;/span&gt;irtual &lt;span style=&#34;color:red&#34;&gt;S&lt;/span&gt;imulation) is an integrative R package for maize breeding that streamlines genome optimization via virtual simulation achieve guidance of lines selection and population development. GOVS describes a promising strategy that can help breeders to select materials in a purposeful and directional manner, with the purpose of enabling breeders to combine others technologies with rapidly genetic gain benefit by genome optimization.Above figure illustrate the framework of GOVS, GOVS consists of four main modules:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#genome-optimization-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome optimization module&lt;/a&gt; for virtual simulation of optimal genome.&lt;/li&gt;
@@ -137,48 +137,48 @@ server script plays an important role in shiny-based applications. All functions
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#statistic-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistic module&lt;/a&gt; for contribution statistic of virtual genome.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#genome-selection-prediciton-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome prediction module&lt;/a&gt; for genotype-to-phenotype prediction of optimal genome.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;GOVS was developed by &lt;a href=&#34;https://ibreeding.cn/authors/qian-cheng/&#34;&gt;Qian Cheng&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;GOVS was developed by &lt;a href=&#34;http://localhost:1313/authors/qian-cheng/&#34;&gt;Qian Cheng&lt;/a&gt; in 2021.&lt;/p&gt;
 &lt;p&gt;Please read the &lt;a href=&#34;https://govs-pack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CropGBM: An Ultra-Efficient Machine Learning Toolbox for Genomic Selection-Assisted Breeding in Crops</title>
-      <link>https://ibreeding.cn/publication/xu-2021/</link>
+      <link>http://localhost:1313/publication/xu-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xu-2021/</guid>
+      <guid>http://localhost:1313/publication/xu-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome optimization via virtual simulation to accelerate maize hybrid breeding</title>
-      <link>https://ibreeding.cn/publication/cheng-2021/</link>
+      <link>http://localhost:1313/publication/cheng-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/cheng-2021/</guid>
+      <guid>http://localhost:1313/publication/cheng-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideas in Genomic Selection with the Potential to Transform Plant Molecular Breeding: A Review</title>
-      <link>https://ibreeding.cn/publication/mc-gowan-2021/</link>
+      <link>http://localhost:1313/publication/mc-gowan-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/mc-gowan-2021/</guid>
+      <guid>http://localhost:1313/publication/mc-gowan-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LightGBM: accelerated genomically designed crop breeding through ensemble learning</title>
-      <link>https://ibreeding.cn/publication/yan-2021/</link>
+      <link>http://localhost:1313/publication/yan-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2021/</guid>
+      <guid>http://localhost:1313/publication/yan-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>African bermudagrass</title>
-      <link>https://ibreeding.cn/project/african-bermudagrass/</link>
+      <link>http://localhost:1313/project/african-bermudagrass/</link>
       <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/african-bermudagrass/</guid>
+      <guid>http://localhost:1313/project/african-bermudagrass/</guid>
       <description>&lt;h2 id=&#34;assembly-and-annotation-of-african-bermudagrass-cynodon-transvaalensis&#34;&gt;Assembly and annotation of African bermudagrass (Cynodon transvaalensis)&lt;/h2&gt;
 &lt;h3 id=&#34;program-description&#34;&gt;Program description&lt;/h3&gt;
 &lt;p&gt;Cynodon species can be used for multiple purposes and have high economic and ecological significance. However, the genetic basis of the favorable agronomic traits of Cynodon species is poorly understood, partially due to the limited availability of genomic resources. In this study, we report a chromosome-scale genome assembly of a diploid Cynodon species, C. transvaalensis, obtained by combining Illumina and Nanopore sequencing, BioNano, and Hi-C. The assembly contains 282 scaffolds (~423.42 Mb, N50 = 5.37 Mb), which cover ~93.2% of the estimated genome of C. transvaalensis (~454.4 Mb). Furthermore, 90.48% of the scaffolds (~383.08 Mb) were anchored to nine pseudomolecules, of which the largest was 60.78 Mb in length. Evolutionary analysis along with transcriptome comparison provided a preliminary genomic basis for the adaptation of this species to tropical and/or subtropical climates, typically with dry summers. The genomic resources generated in this study will not only facilitate evolutionary studies of the Chloridoideae subfamily, in particular, the Cynodonteae tribe, but also facilitate functional genomic research and genetic breeding in Cynodon species for new leading turfgrass cultivars in the future.&lt;/p&gt;
@@ -195,7 +195,7 @@ server script plays an important role in shiny-based applications. All functions
 &lt;p&gt;MD5sum: 9ac0b69e64f6cdf7b25a3be1238732e8&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;African bermudagrass genome was assebled by &lt;a href=&#34;https://ibreeding.cn/authors/fengchao-cui/&#34;&gt;Fengchao Cui&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;African bermudagrass genome was assebled by &lt;a href=&#34;http://localhost:1313/authors/fengchao-cui/&#34;&gt;Fengchao Cui&lt;/a&gt; in 2020.&lt;/p&gt;
 &lt;p&gt;For details, please refer to &lt;em&gt;&lt;a href=&#34;https://doi.org/10.1038/s41438-021-00519-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The genome of the warm-season turfgrass African
 bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the &amp;ldquo;pdf&amp;rdquo; button below the title!&lt;/p&gt;
 </description>
@@ -203,25 +203,25 @@ bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the 
     
     <item>
       <title>The genetic mechanism of heterosis utilization in maize improvement</title>
-      <link>https://ibreeding.cn/publication/xiao-2021-may/</link>
+      <link>http://localhost:1313/publication/xiao-2021-may/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xiao-2021-may/</guid>
+      <guid>http://localhost:1313/publication/xiao-2021-may/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The genome of the warm-season turfgrass African bermudagrass (Cynodon transvaalensis)</title>
-      <link>https://ibreeding.cn/publication/cui-2021/</link>
+      <link>http://localhost:1313/publication/cui-2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/cui-2021/</guid>
+      <guid>http://localhost:1313/publication/cui-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CropGBM</title>
-      <link>https://ibreeding.cn/project/cropgbm/</link>
+      <link>http://localhost:1313/project/cropgbm/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/cropgbm/</guid>
+      <guid>http://localhost:1313/project/cropgbm/</guid>
       <description>&lt;p&gt;Crop Genomic Breeding machine (CropGBM) is a multifunctional program that integrates data preprocessing, population structure analysis, SNP selection, phenotype prediction, and data visualization. Has the following advantages:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Use LightGBM algorithm to quickly and accurately predict phenotype values and support GPU-accelerated training.&lt;/li&gt;
@@ -230,59 +230,59 @@ bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the 
 &lt;li&gt;Support Kmeans and OPTICS two clustering algorithms to analyze the sample population structure.&lt;/li&gt;
 &lt;li&gt;Plot histograms of heterozygosity rate, deletion rate, and frequency of alleles for genotype data.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;CropGBM was developed by &lt;a href=&#34;https://ibreeding.cn/authors/yuetong-xu/&#34;&gt;Yuetong Xu&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;CropGBM was developed by &lt;a href=&#34;http://localhost:1313/authors/yuetong-xu/&#34;&gt;Yuetong Xu&lt;/a&gt; in 2020.&lt;/p&gt;
 &lt;p&gt;Please read the &lt;a href=&#34;https://ibreeding.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CrusView</title>
-      <link>https://ibreeding.cn/project/crusview/</link>
+      <link>http://localhost:1313/project/crusview/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/crusview/</guid>
+      <guid>http://localhost:1313/project/crusview/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.cmbb.arizona.edu/CrusView/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CrusView&lt;/a&gt; is a Java-based bioinformatic application utilizing Standard Widget Toolkit/Swing graphics libraries and a SQLite database for performing visualized analyses of comparative genomics data in Brassicaceae (crucifer) plants.&lt;/p&gt;
 &lt;p&gt;Compared with similar software and databases, one of the unique features of CrusView is its integration of karyotype information when comparing two genomes. This feature allows users to perform karyotype-based genome assembly and karyotype-assisted genome synteny analyses with preset karyotype patterns of the Brassicaceae genomes. Additionally, CrusView is a local program, which gives its users high flexibility when analyzing unpublished genomes and allows users to upload self-defined genomic information so that they can visually study the associations between genome structural variations and genetic elements, including chromosomal rearrangements, genomic macrosynteny, gene families, high-frequency recombination sites, and tandem and segmental duplications between related species. This tool will greatly facilitate karyotype, chromosome, and genome evolution studies using visualized comparative genomics approaches in Brassicaceae species.&lt;/p&gt;
-&lt;p&gt;CrusView was developed by &lt;a href=&#34;https://ibreeding.cn/authors/hao-chen/&#34;&gt;Hao Chen&lt;/a&gt; in 2013.&lt;/p&gt;
+&lt;p&gt;CrusView was developed by &lt;a href=&#34;http://localhost:1313/authors/hao-chen/&#34;&gt;Hao Chen&lt;/a&gt; in 2013.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KGBassembler</title>
-      <link>https://ibreeding.cn/project/kgbassembler/</link>
+      <link>http://localhost:1313/project/kgbassembler/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/kgbassembler/</guid>
+      <guid>http://localhost:1313/project/kgbassembler/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.cmbb.arizona.edu/KGBassembler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KGBassembler&lt;/a&gt; is a tool used to assemble full chromosomes from scaffolds if a karyotype is provided. The KGBassembler is featured with a user-friendly graphical user interface (GUI), allowing users to use automatic assembling of chromosomes based on CCP-based karyotypes and/or to manually edit the layouts of contigs according to in silico generated karyotypes. KGBassembler runs in three steps (Phases I–III). Phase I (Contigs2Blocks) is to identify the 24 blocks in contigs via analyzing BLAT alignments using two algorithms: local and global search. KGBassembler was implemented in C++ with a GUI built with the open-source QT toolbox.&lt;/p&gt;
-&lt;p&gt;KGBassembler was developed by &lt;a href=&#34;https://ibreeding.cn/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2011&lt;/p&gt;
+&lt;p&gt;KGBassembler was developed by &lt;a href=&#34;http://localhost:1313/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>mlDNA</title>
-      <link>https://ibreeding.cn/project/mldna/</link>
+      <link>http://localhost:1313/project/mldna/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/mldna/</guid>
+      <guid>http://localhost:1313/project/mldna/</guid>
       <description>&lt;p&gt;Machine learning (ML) is an intelligent data mining technique that builds a prediction model based on the learning of prior knowledge to recognize patterns in large-scale data sets. We present an ML-based methodology for transcriptome analysis via comparison of gene coexpression networks, implemented as an R package called machine learning-based differential network analysis (&lt;a href=&#34;https://cran.r-project.org/web/packages/mlDNA/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mlDNA&lt;/a&gt;) and apply this method to reanalyze a set of abiotic stress expression data in Arabidopsis thaliana.&lt;/p&gt;
 &lt;p&gt;The mlDNA first used a ML-based filtering process to remove nonexpressed, constitutively expressed, or non-stress-responsive &amp;ldquo;noninformative&amp;rdquo; genes prior to network construction, through learning the patterns of 32 expression characteristics of known stress-related genes. The retained &amp;ldquo;informative&amp;rdquo; genes were subsequently analyzed by ML-based network comparison to predict candidate stress-related genes showing expression and network differences between control and stress networks, based on 33 network topological characteristics. Comparative evaluation of the network-centric and gene-centric analytic methods showed that mlDNA substantially outperformed traditional statistical testing-based differential expression analysis at identifying stress-related genes, with markedly improved prediction accuracy.&lt;/p&gt;
-&lt;p&gt;mlDNA was developed by &lt;a href=&#34;https://ibreeding.cn/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2013.&lt;/p&gt;
+&lt;p&gt;mlDNA was developed by &lt;a href=&#34;http://localhost:1313/authors/chuang-ma/&#34;&gt;Chuang Ma&lt;/a&gt; in 2013.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MODAS</title>
-      <link>https://ibreeding.cn/project/modas/</link>
+      <link>http://localhost:1313/project/modas/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/modas/</guid>
+      <guid>http://localhost:1313/project/modas/</guid>
       <description>&lt;p&gt;MODAS (Multi-Omics Data Association Study toolkit) is an efficient software for high-dimensional omics data association analysis. A major feature of MODAS is its novel genome-wide association analysis (GWAS) strategy for high-dimensional omics data. Firstly, MODAS generates pseudo-genotype files to reduce the dimensionality of the original SNP-based genotype data; then, it performs block-based GWAS to screen out the significantly associated genomic regions (SAGRs); finally, it performs SNP-based association analysis on the SAGRs to obtain the QTLs for the high-dimensional omics data. Another feature of MODAS is that it introduces Mendelian randomization algorithm to infer the genetic regulation relationship between omics-data related QTLs, which helps biological hypothesis establishment. Moreover, a HTML based web page is implemented in MODAS for the visualization and query of omics-data based GWAS results, which facilitate further gene function mining.&lt;/p&gt;
-&lt;p&gt;MODAS was developed by &lt;a href=&#34;https://ibreeding.cn/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;MODAS was developed by &lt;a href=&#34;http://localhost:1313/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
 &lt;p&gt;Please read the &lt;a href=&#34;https://modas-bio.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SR4R</title>
-      <link>https://ibreeding.cn/project/sr4r/</link>
+      <link>http://localhost:1313/project/sr4r/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/sr4r/</guid>
+      <guid>http://localhost:1313/project/sr4r/</guid>
       <description>&lt;h2 id=&#34;span-stylecolorredsr4rspan-span-stylecolorredsspannpspan-stylecolorredrspaneady-for-span-stylecolorredrspanice&#34;&gt;&lt;span style=&#34;color:red&#34;&gt;SR4R&lt;/span&gt;: &lt;span style=&#34;color:red&#34;&gt;S&lt;/span&gt;np&lt;span style=&#34;color:red&#34;&gt;R&lt;/span&gt;eady for &lt;span style=&#34;color:red&#34;&gt;R&lt;/span&gt;ice&lt;/h2&gt;
 &lt;h3 id=&#34;program-description&#34;&gt;Program description&lt;/h3&gt;
 &lt;p&gt;The SnpReady for Rice (SR4R) database presents four reference panels of SNPs and tools to satisfy different aspects of population genetics, evolutionary analysis, association studies and genomic breeding research for the rice (Oryza sativa) community.&lt;/p&gt;
@@ -293,574 +293,574 @@ bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the 
 &lt;li&gt;Golden SNPs &lt;a href=&#34;38Markers.hapmap.gz&#34;&gt;1180Markers.hapmap.gz&lt;/a&gt;(447K)&lt;/li&gt;
 &lt;li&gt;Barcode SNPs &lt;a href=&#34;38Markers.hapmap.gz&#34;&gt;38Markers.hapmap.gz&lt;/a&gt;(26K)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;SR4R was developed by &lt;a href=&#34;https://ibreeding.cn/authors/jun-yan/&#34;&gt;Jun Yan&lt;/a&gt; in 2019.&lt;/p&gt;
+&lt;p&gt;SR4R was developed by &lt;a href=&#34;http://localhost:1313/authors/jun-yan/&#34;&gt;Jun Yan&lt;/a&gt; in 2019.&lt;/p&gt;
 &lt;p&gt;Please read more in &lt;a href=&#34;http://sr4r.ic4r.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sr4r.ic4r.org/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Metabolomics-driven gene mining and genetic improvement of tolerance to salt-induced osmotic stress in maize</title>
-      <link>https://ibreeding.cn/publication/liang-2021-mar/</link>
+      <link>http://localhost:1313/publication/liang-2021-mar/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/liang-2021-mar/</guid>
+      <guid>http://localhost:1313/publication/liang-2021-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resequencing 250 soybean accessions: new insights into genes associated with agronomic traits and genetic networks</title>
-      <link>https://ibreeding.cn/publication/yang-2021-jan/</link>
+      <link>http://localhost:1313/publication/yang-2021-jan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yang-2021-jan/</guid>
+      <guid>http://localhost:1313/publication/yang-2021-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome Size Evolution Mediated by Gypsy Retrotransposons in Brassicaceae</title>
-      <link>https://ibreeding.cn/publication/zhang-2020-oct/</link>
+      <link>http://localhost:1313/publication/zhang-2020-oct/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2020-oct/</guid>
+      <guid>http://localhost:1313/publication/zhang-2020-oct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SR4R: An Integrative SNP Resource for Genomic Breeding and Population Research in Rice</title>
-      <link>https://ibreeding.cn/publication/yan-2020-jun/</link>
+      <link>http://localhost:1313/publication/yan-2020-jun/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2020-jun/</guid>
+      <guid>http://localhost:1313/publication/yan-2020-jun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A QTL atlas for grain yield and its component traits in maize ( Zea mays )</title>
-      <link>https://ibreeding.cn/publication/zhou-2020-mar/</link>
+      <link>http://localhost:1313/publication/zhou-2020-mar/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhou-2020-mar/</guid>
+      <guid>http://localhost:1313/publication/zhou-2020-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Divergent selection and genetic introgression shape the genome landscape of heterosis in hybrid rice</title>
-      <link>https://ibreeding.cn/publication/lin-2020-feb/</link>
+      <link>http://localhost:1313/publication/lin-2020-feb/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/lin-2020-feb/</guid>
+      <guid>http://localhost:1313/publication/lin-2020-feb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IbBBX24 Promotes the Jasmonic Acid Pathway and Enhances Fusarium Wilt Resistance in Sweet Potato</title>
-      <link>https://ibreeding.cn/publication/zhang-2020-feb/</link>
+      <link>http://localhost:1313/publication/zhang-2020-feb/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2020-feb/</guid>
+      <guid>http://localhost:1313/publication/zhang-2020-feb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome optimization for improvement of maize breeding</title>
-      <link>https://ibreeding.cn/publication/jiang-2019-dec/</link>
+      <link>http://localhost:1313/publication/jiang-2019-dec/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/jiang-2019-dec/</guid>
+      <guid>http://localhost:1313/publication/jiang-2019-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The hybrid protein interactome contributes to rice heterosis as epistatic effects</title>
-      <link>https://ibreeding.cn/publication/li-2019-nov/</link>
+      <link>http://localhost:1313/publication/li-2019-nov/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2019-nov/</guid>
+      <guid>http://localhost:1313/publication/li-2019-nov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corrigendum: Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
-      <link>https://ibreeding.cn/publication/liang-2019-jan/</link>
+      <link>http://localhost:1313/publication/liang-2019-jan/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/liang-2019-jan/</guid>
+      <guid>http://localhost:1313/publication/liang-2019-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
-      <link>https://ibreeding.cn/publication/liang-2018-dec/</link>
+      <link>http://localhost:1313/publication/liang-2018-dec/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/liang-2018-dec/</guid>
+      <guid>http://localhost:1313/publication/liang-2018-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning Models for Genetic Risk Assessment of Infants with Non-syndromic Orofacial Cleft</title>
-      <link>https://ibreeding.cn/publication/zhang-2018-dec/</link>
+      <link>http://localhost:1313/publication/zhang-2018-dec/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2018-dec/</guid>
+      <guid>http://localhost:1313/publication/zhang-2018-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opaque-2 Regulates a Complex Gene Network Associated with Cell Differentiation and Storage Functions of Maize Endosperm</title>
-      <link>https://ibreeding.cn/publication/zhan-2018-sep/</link>
+      <link>http://localhost:1313/publication/zhan-2018-sep/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhan-2018-sep/</guid>
+      <guid>http://localhost:1313/publication/zhan-2018-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CGmapTools improves the precision of heterozygous SNV calls and supports allele-specific methylation detection and visualization in bisulfite-sequencing data</title>
-      <link>https://ibreeding.cn/publication/guo-2017-sep/</link>
+      <link>http://localhost:1313/publication/guo-2017-sep/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/guo-2017-sep/</guid>
+      <guid>http://localhost:1313/publication/guo-2017-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Association Identifies Regulators of Wheat Spike Architecture</title>
-      <link>https://ibreeding.cn/publication/wang-2017-aug/</link>
+      <link>http://localhost:1313/publication/wang-2017-aug/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2017-aug/</guid>
+      <guid>http://localhost:1313/publication/wang-2017-aug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dr. Wang received a fund from the Beijing Advanced Innovation Center for Food Nutrition and Human Health</title>
-      <link>https://ibreeding.cn/post/fund_from_baicfnhh_2017-07-16/</link>
+      <link>http://localhost:1313/post/fund_from_baicfnhh_2017-07-16/</link>
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/post/fund_from_baicfnhh_2017-07-16/</guid>
+      <guid>http://localhost:1313/post/fund_from_baicfnhh_2017-07-16/</guid>
       <description>&lt;p&gt;Dr. Wang received a fund from the &lt;a href=&#34;http://baicfnhh.cau.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beijing Advanced Innovation Center for Food Nutrition and Human Health&lt;/a&gt; at the CAU (&lt;a href=&#34;http://baicfnhh.cau.edu.cn/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://baicfnhh.cau.edu.cn/)&lt;/a&gt;, and he is appointed as guest PI for the center. This project is collaboration with Dr. Feng Chen’s group at the School of Stomatology, Peking University, who has collected DNA samples from 700 babies with cleft lip from Han Chinese and Uygur ethnic group. In this project, we will be studying the genetic interactions with the high-risk predisposing variations in the Cleft-related genes and nutrition-related genes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Isoform Evolution in Primates through Independent Combination of Alternative RNA Processing Events</title>
-      <link>https://ibreeding.cn/publication/zhang-2017-jul/</link>
+      <link>http://localhost:1313/publication/zhang-2017-jul/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2017-jul/</guid>
+      <guid>http://localhost:1313/publication/zhang-2017-jul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcript profile analysis reveals important roles of jasmonic acid signalling pathway in the response of sweet potato to salt stress</title>
-      <link>https://ibreeding.cn/publication/zhang-2017-jan/</link>
+      <link>http://localhost:1313/publication/zhang-2017-jan/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2017-jan/</guid>
+      <guid>http://localhost:1313/publication/zhang-2017-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jun Yan’s Molecular Plant paper is online now!</title>
-      <link>https://ibreeding.cn/post/yan_mp_2016-07-07/</link>
+      <link>http://localhost:1313/post/yan_mp_2016-07-07/</link>
       <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/post/yan_mp_2016-07-07/</guid>
+      <guid>http://localhost:1313/post/yan_mp_2016-07-07/</guid>
       <description>&lt;p&gt;In this work, Jun combined PacBio (∼15x) with Illumina reads (∼40x) to improve the genome assemblies of African wild (Oryza barthii) and cultivated rice (O. glaberrima), and to infer large SVs between O. barthii and O. glaberrima. This study illustrates the potential of PacBio single-molecule sequencing in expediting the process of gene discovery for crop improvement and downstream functional validation of candidate genes. This work is collaboration between Prof. Zuofeng Zhu’s lab at CAU and Prof. Xing-Wang Deng’s at Peking University, download the original paper from our Publication list.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Single-Molecule Sequencing Assists Genome Assembly Improvement and Structural Variation Inference</title>
-      <link>https://ibreeding.cn/publication/yan-2016-apr/</link>
+      <link>http://localhost:1313/publication/yan-2016-apr/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2016-apr/</guid>
+      <guid>http://localhost:1313/publication/yan-2016-apr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rsgcc</title>
-      <link>https://ibreeding.cn/project/rsgcc/</link>
+      <link>http://localhost:1313/project/rsgcc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/rsgcc/</guid>
+      <guid>http://localhost:1313/project/rsgcc/</guid>
       <description>&lt;p&gt;This package provides functions for calculating associations between two genes with five correlation methods(e.g., the Gini correlation coefficient [GCC], the Pearson&amp;rsquo;s product moment correlation coefficient [PCC], the Kendall tau rank correlation coefficient [KCC], the Spearman&amp;rsquo;s rank correlation coefficient [SCC] and the Tukey&amp;rsquo;s biweight correlation coefficient [BiWt], and three non-correlation methods (e.g., mutual information [MI] and the maximal information-based nonparametric exploration [MINE], and the euclidean distance [ED]). It can also been implemented to perform the correlation and clustering analysis of transcriptomic data profiled by microarray and RNA-Seq technologies. Additionally, this package can be further applied to construct gene co-expression networks (GCNs).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/rsgcc/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsgcc&lt;/a&gt; was developed by &lt;a href=&#34;https://ibreeding.cn/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/rsgcc/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rsgcc&lt;/a&gt; was developed by &lt;a href=&#34;http://localhost:1313/authors/songyu-liu/&#34;&gt;Songyu Liu&lt;/a&gt; in 2021.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Discovery of a vezatin-like protein for dynein-mediated early endosome transport</title>
-      <link>https://ibreeding.cn/publication/yao-2015-sep/</link>
+      <link>http://localhost:1313/publication/yao-2015-sep/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yao-2015-sep/</guid>
+      <guid>http://localhost:1313/publication/yao-2015-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IC4R online!</title>
-      <link>https://ibreeding.cn/post/ma_trends_in_plant_science-2014-09-15/</link>
+      <link>http://localhost:1313/post/ma_trends_in_plant_science-2014-09-15/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/post/ma_trends_in_plant_science-2014-09-15/</guid>
+      <guid>http://localhost:1313/post/ma_trends_in_plant_science-2014-09-15/</guid>
       <description>&lt;p&gt;In Collaboration with Prof. Zhang and his Big Data center in Beijing Institute of Genomics, CAS, we have built a data center for rice. Feel free to use this database!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Information Commons for Rice (IC4R)</title>
-      <link>https://ibreeding.cn/publication/2015-oct/</link>
+      <link>http://localhost:1313/publication/2015-oct/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/2015-oct/</guid>
+      <guid>http://localhost:1313/publication/2015-oct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal small RNA transcriptome profiling unraveled partitioned miRNA expression in developing maize endosperms between reciprocal crosses</title>
-      <link>https://ibreeding.cn/publication/xin-2015-sep/</link>
+      <link>http://localhost:1313/publication/xin-2015-sep/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2015-sep/</guid>
+      <guid>http://localhost:1313/publication/xin-2015-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RNA Sequencing of Laser-Capture Microdissected Compartments of the Maize Kernel Identifies Regulatory Modules Associated with Endosperm Cell Differentiation</title>
-      <link>https://ibreeding.cn/publication/zhan-2015-mar/</link>
+      <link>http://localhost:1313/publication/zhan-2015-mar/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhan-2015-mar/</guid>
+      <guid>http://localhost:1313/publication/zhan-2015-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning for Big Data analytics in plants</title>
-      <link>https://ibreeding.cn/publication/ma-2014-sep/</link>
+      <link>http://localhost:1313/publication/ma-2014-sep/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/ma-2014-sep/</guid>
+      <guid>http://localhost:1313/publication/ma-2014-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drs. Chuang Ma, Helen Zhang and Xiangfeng Wang wrote a review to the Cell daughter journal, Trends in Plant Sciences.</title>
-      <link>https://ibreeding.cn/post/ic4r_2015-11-01/</link>
+      <link>http://localhost:1313/post/ic4r_2015-11-01/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/post/ic4r_2015-11-01/</guid>
+      <guid>http://localhost:1313/post/ic4r_2015-11-01/</guid>
       <description>&lt;p&gt;This review demonstrates how to use the Big Data technology to assist basic and translational research in plants; introduces basic concepts and procedures, pitfalls, and remedies of using machine learning; and demonstrates one example of using machine learning for data-driven discovery of stress genes. This work also provides a general framework on how to build the infrastructure to solve the Big Data problems for plant biologists. Interested in knowing more about Big Data and Machine Learning, Go to our Publication list!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dynamic parent-of-origin effects on small interfering RNA expression in the developing maize endosperm</title>
-      <link>https://ibreeding.cn/publication/xin-2014-jul/</link>
+      <link>http://localhost:1313/publication/xin-2014-jul/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2014-jul/</guid>
+      <guid>http://localhost:1313/publication/xin-2014-jul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal patterns of gene expression in developing maize endosperm identified through transcriptome sequencing</title>
-      <link>https://ibreeding.cn/publication/li-2014-may/</link>
+      <link>http://localhost:1313/publication/li-2014-may/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2014-may/</guid>
+      <guid>http://localhost:1313/publication/li-2014-may/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complete genome of Hainan papaya ringspot virus using small RNA deep sequencing</title>
-      <link>https://ibreeding.cn/publication/zhang-2014-feb/</link>
+      <link>http://localhost:1313/publication/zhang-2014-feb/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2014-feb/</guid>
+      <guid>http://localhost:1313/publication/zhang-2014-feb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning–Based Differential Network Analysis: A Study of Stress-Responsive Transcriptomes in Arabidopsis</title>
-      <link>https://ibreeding.cn/publication/ma-2014-feb/</link>
+      <link>http://localhost:1313/publication/ma-2014-feb/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/ma-2014-feb/</guid>
+      <guid>http://localhost:1313/publication/ma-2014-feb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Expression of Imprinted Genes Associates with Maternally Controlled Nutrient Allocation during Maize Endosperm Development</title>
-      <link>https://ibreeding.cn/publication/xin-2013-sep/</link>
+      <link>http://localhost:1313/publication/xin-2013-sep/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2013-sep/</guid>
+      <guid>http://localhost:1313/publication/xin-2013-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Computational Workflow to Identify Allele-specific Expression and Epigenetic Modification in Maize</title>
-      <link>https://ibreeding.cn/publication/wei-2013-jul/</link>
+      <link>http://localhost:1313/publication/wei-2013-jul/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wei-2013-jul/</guid>
+      <guid>http://localhost:1313/publication/wei-2013-jul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CrusView: A Java-Based Visualization Platform for Comparative Genomics Analyses in Brassicaceae Species</title>
-      <link>https://ibreeding.cn/publication/chen-2013-jul/</link>
+      <link>http://localhost:1313/publication/chen-2013-jul/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/chen-2013-jul/</guid>
+      <guid>http://localhost:1313/publication/chen-2013-jul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organ Evolution in Angiosperms Driven by Correlated Divergences of Gene Sequences and Expression Patterns</title>
-      <link>https://ibreeding.cn/publication/yang-2013-jan/</link>
+      <link>http://localhost:1313/publication/yang-2013-jan/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yang-2013-jan/</guid>
+      <guid>http://localhost:1313/publication/yang-2013-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Reference Genome of the Halophytic Plant Eutrema salsugineum</title>
-      <link>https://ibreeding.cn/publication/yang-2013-mar/</link>
+      <link>http://localhost:1313/publication/yang-2013-mar/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yang-2013-mar/</guid>
+      <guid>http://localhost:1313/publication/yang-2013-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KGBassembler: a karyotype-based genome assembler for Brassicaceae species</title>
-      <link>https://ibreeding.cn/publication/ma-2012-oct/</link>
+      <link>http://localhost:1313/publication/ma-2012-oct/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/ma-2012-oct/</guid>
+      <guid>http://localhost:1313/publication/ma-2012-oct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Comparison of Susceptible and Resistant Wheat in Response to Powdery Mildew Infection</title>
-      <link>https://ibreeding.cn/publication/xin-2012-jun/</link>
+      <link>http://localhost:1313/publication/xin-2012-jun/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xin-2012-jun/</guid>
+      <guid>http://localhost:1313/publication/xin-2012-jun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational dissection of Arabidopsis smRNAome leads to discovery of novel microRNAs and short interfering RNAs associated with transcription start sites</title>
-      <link>https://ibreeding.cn/publication/wang-2011-feb/</link>
+      <link>http://localhost:1313/publication/wang-2011-feb/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2011-feb/</guid>
+      <guid>http://localhost:1313/publication/wang-2011-feb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic Curation of miRBase Annotation Using Integrated Small RNA High-Throughput Sequencing Data for C. elegans and Drosophila</title>
-      <link>https://ibreeding.cn/publication/wang-2011-jun/</link>
+      <link>http://localhost:1313/publication/wang-2011-jun/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2011-jun/</guid>
+      <guid>http://localhost:1313/publication/wang-2011-jun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide mapping of the HY5-mediated genenetworks in Arabidopsis that involve both transcriptional and post-transcriptional regulation</title>
-      <link>https://ibreeding.cn/publication/zhang-2010-nov/</link>
+      <link>http://localhost:1313/publication/zhang-2010-nov/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2010-nov/</guid>
+      <guid>http://localhost:1313/publication/zhang-2010-nov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of a versatile, target-oriented tiling microarray assay for measuring allele-specific gene expression</title>
-      <link>https://ibreeding.cn/publication/he-2010-aug/</link>
+      <link>http://localhost:1313/publication/he-2010-aug/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/he-2010-aug/</guid>
+      <guid>http://localhost:1313/publication/he-2010-aug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide profiling of histone H3 lysine 9 acetylation and dimethylation in Arabidopsis reveals correlation between multiple histone marks and gene expression</title>
-      <link>https://ibreeding.cn/publication/zhou-2010-jan/</link>
+      <link>http://localhost:1313/publication/zhou-2010-jan/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhou-2010-jan/</guid>
+      <guid>http://localhost:1313/publication/zhou-2010-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Epigenetic and Transcriptional Trends among Two Rice Subspecies and Their Reciprocal Hybrids</title>
-      <link>https://ibreeding.cn/publication/he-2010-jan/</link>
+      <link>http://localhost:1313/publication/he-2010-jan/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/he-2010-jan/</guid>
+      <guid>http://localhost:1313/publication/he-2010-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-Wide and Organ-Specific Landscapes of Epigenetic Modifications and Their Relationships to mRNA and Small RNA Transcriptomes in Maize</title>
-      <link>https://ibreeding.cn/publication/wang-2009-apr/</link>
+      <link>http://localhost:1313/publication/wang-2009-apr/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2009-apr/</guid>
+      <guid>http://localhost:1313/publication/wang-2009-apr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptionally active gene fragments derived from potentially fast-evolving donor genes in the rice genome</title>
-      <link>https://ibreeding.cn/publication/wang-2009-mar/</link>
+      <link>http://localhost:1313/publication/wang-2009-mar/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2009-mar/</guid>
+      <guid>http://localhost:1313/publication/wang-2009-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of the genome expression trends in the heading-stage panicle of six rice lineages</title>
-      <link>https://ibreeding.cn/publication/peng-2009-dec/</link>
+      <link>http://localhost:1313/publication/peng-2009-dec/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/peng-2009-dec/</guid>
+      <guid>http://localhost:1313/publication/peng-2009-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Genome-Wide Transcription Analysis Reveals a Close Correlation of Promoter INDEL Polymorphism and Heterotic Gene Expression in Rice Hybrids</title>
-      <link>https://ibreeding.cn/publication/zhang-2008-aug/</link>
+      <link>http://localhost:1313/publication/zhang-2008-aug/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhang-2008-aug/</guid>
+      <guid>http://localhost:1313/publication/zhang-2008-aug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integration of Cytological Features with Molecular and Epigenetic Properties of Rice Chromosome 4</title>
-      <link>https://ibreeding.cn/publication/yin-2008-aug/</link>
+      <link>http://localhost:1313/publication/yin-2008-aug/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yin-2008-aug/</guid>
+      <guid>http://localhost:1313/publication/yin-2008-aug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Resolution Mapping of Epigenetic Modifications of the Rice Genome Uncovers Interplay between DNA Methylation, Histone Methylation, and Gene Expression</title>
-      <link>https://ibreeding.cn/publication/li-2008-feb/</link>
+      <link>http://localhost:1313/publication/li-2008-feb/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2008-feb/</guid>
+      <guid>http://localhost:1313/publication/li-2008-feb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptional analysis of highly syntenic regions between Medicago truncatula and Glycine max using tiling microarrays</title>
-      <link>https://ibreeding.cn/publication/li-2008-mar/</link>
+      <link>http://localhost:1313/publication/li-2008-mar/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2008-mar/</guid>
+      <guid>http://localhost:1313/publication/li-2008-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Identification and Characterization of Transcriptionally Active Regions in the Rice Genome</title>
-      <link>https://ibreeding.cn/publication/li-2007-mar/</link>
+      <link>http://localhost:1313/publication/li-2007-mar/</link>
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2007-mar/</guid>
+      <guid>http://localhost:1313/publication/li-2007-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global genome expression analysis of rice in response to drought and high-salinity stresses in shoot, flag leaf, and panicle</title>
-      <link>https://ibreeding.cn/publication/zhou-2007-jan/</link>
+      <link>http://localhost:1313/publication/zhou-2007-jan/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/zhou-2007-jan/</guid>
+      <guid>http://localhost:1313/publication/zhou-2007-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NMPP: a user-customized NimbleGen microarray data processing pipeline</title>
-      <link>https://ibreeding.cn/publication/wang-2006-oct/</link>
+      <link>http://localhost:1313/publication/wang-2006-oct/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2006-oct/</guid>
+      <guid>http://localhost:1313/publication/wang-2006-oct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide transcription analyses in rice using tiling microarrays</title>
-      <link>https://ibreeding.cn/publication/li-2005-dec/</link>
+      <link>http://localhost:1313/publication/li-2005-dec/</link>
       <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2005-dec/</guid>
+      <guid>http://localhost:1313/publication/li-2005-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Pilot Study of Transcription Unit Analysis in Rice Using Oligonucleotide Tiling-path Microarray</title>
-      <link>https://ibreeding.cn/publication/stolc-2005-oct/</link>
+      <link>http://localhost:1313/publication/stolc-2005-oct/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/stolc-2005-oct/</guid>
+      <guid>http://localhost:1313/publication/stolc-2005-oct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A microarray analysis of the rice transcriptome and its comparison to Arabidopsis</title>
-      <link>https://ibreeding.cn/publication/ma-2005-sep/</link>
+      <link>http://localhost:1313/publication/ma-2005-sep/</link>
       <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/ma-2005-sep/</guid>
+      <guid>http://localhost:1313/publication/ma-2005-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Tiling Microarray Expression Analysis of Rice Chromosome 4 Suggests a Chromosome-Level Regulation of Transcription</title>
-      <link>https://ibreeding.cn/publication/jiao-2005-apr/</link>
+      <link>http://localhost:1313/publication/jiao-2005-apr/</link>
       <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/jiao-2005-apr/</guid>
+      <guid>http://localhost:1313/publication/jiao-2005-apr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiling microarray analysis of rice chromosome 10 to identify the transcriptome and relate its expression to chromosomal architecture</title>
-      <link>https://ibreeding.cn/publication/li-2005-may/</link>
+      <link>http://localhost:1313/publication/li-2005-may/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2005-may/</guid>
+      <guid>http://localhost:1313/publication/li-2005-may/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ibreeding.cn/admin/config.yml</link>
+      <link>http://localhost:1313/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/admin/config.yml</guid>
+      <guid>http://localhost:1313/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioinformatics</title>
-      <link>https://ibreeding.cn/research/bioinformatics/</link>
+      <link>http://localhost:1313/research/bioinformatics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/research/bioinformatics/</guid>
+      <guid>http://localhost:1313/research/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crop Genomics</title>
-      <link>https://ibreeding.cn/research/crop-genomics/</link>
+      <link>http://localhost:1313/research/crop-genomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/research/crop-genomics/</guid>
+      <guid>http://localhost:1313/research/crop-genomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomic Breeding</title>
-      <link>https://ibreeding.cn/research/genomic-breeding/</link>
+      <link>http://localhost:1313/research/genomic-breeding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/research/genomic-breeding/</guid>
+      <guid>http://localhost:1313/research/genomic-breeding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Health</title>
-      <link>https://ibreeding.cn/research/human-health/</link>
+      <link>http://localhost:1313/research/human-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/research/human-health/</guid>
+      <guid>http://localhost:1313/research/human-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landing Page</title>
-      <link>https://ibreeding.cn/education/</link>
+      <link>http://localhost:1313/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/education/</guid>
+      <guid>http://localhost:1313/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landing Page</title>
-      <link>https://ibreeding.cn/news/</link>
+      <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/news/</guid>
+      <guid>http://localhost:1313/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landing Page</title>
-      <link>https://ibreeding.cn/resources/</link>
+      <link>http://localhost:1313/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/resources/</guid>
+      <guid>http://localhost:1313/resources/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population Genetics</title>
-      <link>https://ibreeding.cn/research/population-genetics/</link>
+      <link>http://localhost:1313/research/population-genetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/research/population-genetics/</guid>
+      <guid>http://localhost:1313/research/population-genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems Biology</title>
-      <link>https://ibreeding.cn/research/systems-biology/</link>
+      <link>http://localhost:1313/research/systems-biology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/research/systems-biology/</guid>
+      <guid>http://localhost:1313/research/systems-biology/</guid>
       <description></description>
     </item>
     

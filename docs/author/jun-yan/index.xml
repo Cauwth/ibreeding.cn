@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jun Yan | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/jun-yan/</link>
-      <atom:link href="https://ibreeding.cn/author/jun-yan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jun-yan/</link>
+      <atom:link href="http://localhost:1313/author/jun-yan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jun Yan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/author/jun-yan/avatar_hu14400010463381486001.jpg</url>
+      <url>http://localhost:1313/author/jun-yan/avatar_hu14400010463381486001.jpg</url>
       <title>Jun Yan</title>
-      <link>https://ibreeding.cn/author/jun-yan/</link>
+      <link>http://localhost:1313/author/jun-yan/</link>
     </image>
     
     <item>
       <title>G2P Provides an Integrative Environment for Multi-model genomic selection analysis to improve genotype-to-phenotype prediction</title>
-      <link>https://ibreeding.cn/publication/wang-2023/</link>
+      <link>http://localhost:1313/publication/wang-2023/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2023/</guid>
+      <guid>http://localhost:1313/publication/wang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jun Yan</title>
-      <link>https://ibreeding.cn/author/jun-yan/</link>
+      <link>http://localhost:1313/author/jun-yan/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/author/jun-yan/</guid>
+      <guid>http://localhost:1313/author/jun-yan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning bridges omics sciences and plant breeding</title>
-      <link>https://ibreeding.cn/publication/yan-2022-sep/</link>
+      <link>http://localhost:1313/publication/yan-2022-sep/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2022-sep/</guid>
+      <guid>http://localhost:1313/publication/yan-2022-sep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised and semi-supervised learning: the next frontier in machine learning for plant systems biology</title>
-      <link>https://ibreeding.cn/publication/yan-2022/</link>
+      <link>http://localhost:1313/publication/yan-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2022/</guid>
+      <guid>http://localhost:1313/publication/yan-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MODAS: exploring maize germplasm with multi-omics data association studies</title>
-      <link>https://ibreeding.cn/publication/liu-2022/</link>
+      <link>http://localhost:1313/publication/liu-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/liu-2022/</guid>
+      <guid>http://localhost:1313/publication/liu-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LightGBM: accelerated genomically designed crop breeding through ensemble learning</title>
-      <link>https://ibreeding.cn/publication/yan-2021/</link>
+      <link>http://localhost:1313/publication/yan-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2021/</guid>
+      <guid>http://localhost:1313/publication/yan-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The genetic mechanism of heterosis utilization in maize improvement</title>
-      <link>https://ibreeding.cn/publication/xiao-2021-may/</link>
+      <link>http://localhost:1313/publication/xiao-2021-may/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xiao-2021-may/</guid>
+      <guid>http://localhost:1313/publication/xiao-2021-may/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SR4R</title>
-      <link>https://ibreeding.cn/project/sr4r/</link>
+      <link>http://localhost:1313/project/sr4r/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/sr4r/</guid>
+      <guid>http://localhost:1313/project/sr4r/</guid>
       <description>&lt;h2 id=&#34;span-stylecolorredsr4rspan-span-stylecolorredsspannpspan-stylecolorredrspaneady-for-span-stylecolorredrspanice&#34;&gt;&lt;span style=&#34;color:red&#34;&gt;SR4R&lt;/span&gt;: &lt;span style=&#34;color:red&#34;&gt;S&lt;/span&gt;np&lt;span style=&#34;color:red&#34;&gt;R&lt;/span&gt;eady for &lt;span style=&#34;color:red&#34;&gt;R&lt;/span&gt;ice&lt;/h2&gt;
 &lt;h3 id=&#34;program-description&#34;&gt;Program description&lt;/h3&gt;
 &lt;p&gt;The SnpReady for Rice (SR4R) database presents four reference panels of SNPs and tools to satisfy different aspects of population genetics, evolutionary analysis, association studies and genomic breeding research for the rice (Oryza sativa) community.&lt;/p&gt;
@@ -83,56 +83,56 @@
 &lt;li&gt;Golden SNPs &lt;a href=&#34;38Markers.hapmap.gz&#34;&gt;1180Markers.hapmap.gz&lt;/a&gt;(447K)&lt;/li&gt;
 &lt;li&gt;Barcode SNPs &lt;a href=&#34;38Markers.hapmap.gz&#34;&gt;38Markers.hapmap.gz&lt;/a&gt;(26K)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;SR4R was developed by &lt;a href=&#34;https://ibreeding.cn/authors/jun-yan/&#34;&gt;Jun Yan&lt;/a&gt; in 2019.&lt;/p&gt;
+&lt;p&gt;SR4R was developed by &lt;a href=&#34;http://localhost:1313/authors/jun-yan/&#34;&gt;Jun Yan&lt;/a&gt; in 2019.&lt;/p&gt;
 &lt;p&gt;Please read more in &lt;a href=&#34;http://sr4r.ic4r.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sr4r.ic4r.org/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Resequencing 250 soybean accessions: new insights into genes associated with agronomic traits and genetic networks</title>
-      <link>https://ibreeding.cn/publication/yang-2021-jan/</link>
+      <link>http://localhost:1313/publication/yang-2021-jan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yang-2021-jan/</guid>
+      <guid>http://localhost:1313/publication/yang-2021-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SR4R: An Integrative SNP Resource for Genomic Breeding and Population Research in Rice</title>
-      <link>https://ibreeding.cn/publication/yan-2020-jun/</link>
+      <link>http://localhost:1313/publication/yan-2020-jun/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2020-jun/</guid>
+      <guid>http://localhost:1313/publication/yan-2020-jun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome optimization for improvement of maize breeding</title>
-      <link>https://ibreeding.cn/publication/jiang-2019-dec/</link>
+      <link>http://localhost:1313/publication/jiang-2019-dec/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/jiang-2019-dec/</guid>
+      <guid>http://localhost:1313/publication/jiang-2019-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corrigendum: Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
-      <link>https://ibreeding.cn/publication/liang-2019-jan/</link>
+      <link>http://localhost:1313/publication/liang-2019-jan/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/liang-2019-jan/</guid>
+      <guid>http://localhost:1313/publication/liang-2019-jan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Powdery Mildews Are Characterized by Contracted Carbohydrate Metabolism and Diverse Effectors to Adapt to Obligate Biotrophic Lifestyle</title>
-      <link>https://ibreeding.cn/publication/liang-2018-dec/</link>
+      <link>http://localhost:1313/publication/liang-2018-dec/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/liang-2018-dec/</guid>
+      <guid>http://localhost:1313/publication/liang-2018-dec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-Molecule Sequencing Assists Genome Assembly Improvement and Structural Variation Inference</title>
-      <link>https://ibreeding.cn/publication/yan-2016-apr/</link>
+      <link>http://localhost:1313/publication/yan-2016-apr/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2016-apr/</guid>
+      <guid>http://localhost:1313/publication/yan-2016-apr/</guid>
       <description></description>
     </item>
     

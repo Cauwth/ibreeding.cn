@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chunming Yang | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/chunming-yang/</link>
-      <atom:link href="https://ibreeding.cn/author/chunming-yang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/chunming-yang/</link>
+      <atom:link href="http://localhost:1313/author/chunming-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chunming Yang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Chunming Yang</title>
-      <link>https://ibreeding.cn/author/chunming-yang/</link>
+      <link>http://localhost:1313/author/chunming-yang/</link>
     </image>
     
     <item>
       <title>Resequencing 250 soybean accessions: new insights into genes associated with agronomic traits and genetic networks</title>
-      <link>https://ibreeding.cn/publication/yang-2021-jan/</link>
+      <link>http://localhost:1313/publication/yang-2021-jan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yang-2021-jan/</guid>
+      <guid>http://localhost:1313/publication/yang-2021-jan/</guid>
       <description></description>
     </item>
     

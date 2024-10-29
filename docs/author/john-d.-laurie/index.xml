@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John D. Laurie | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/john-d.-laurie/</link>
-      <atom:link href="https://ibreeding.cn/author/john-d.-laurie/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/john-d.-laurie/</link>
+      <atom:link href="http://localhost:1313/author/john-d.-laurie/index.xml" rel="self" type="application/rss+xml" />
     <description>John D. Laurie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>John D. Laurie</title>
-      <link>https://ibreeding.cn/author/john-d.-laurie/</link>
+      <link>http://localhost:1313/author/john-d.-laurie/</link>
     </image>
     
     <item>
       <title>CropGBM: An Ultra-Efficient Machine Learning Toolbox for Genomic Selection-Assisted Breeding in Crops</title>
-      <link>https://ibreeding.cn/publication/xu-2021/</link>
+      <link>http://localhost:1313/publication/xu-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xu-2021/</guid>
+      <guid>http://localhost:1313/publication/xu-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational dissection of Arabidopsis smRNAome leads to discovery of novel microRNAs and short interfering RNAs associated with transcription start sites</title>
-      <link>https://ibreeding.cn/publication/wang-2011-feb/</link>
+      <link>http://localhost:1313/publication/wang-2011-feb/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2011-feb/</guid>
+      <guid>http://localhost:1313/publication/wang-2011-feb/</guid>
       <description></description>
     </item>
     

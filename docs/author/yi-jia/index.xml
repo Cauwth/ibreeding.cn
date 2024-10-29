@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yi Jia | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/yi-jia/</link>
-      <atom:link href="https://ibreeding.cn/author/yi-jia/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yi-jia/</link>
+      <atom:link href="http://localhost:1313/author/yi-jia/index.xml" rel="self" type="application/rss+xml" />
     <description>Yi Jia</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
+      <url>http://localhost:1313/media/icon_hu4481101865266225006.png</url>
       <title>Yi Jia</title>
-      <link>https://ibreeding.cn/author/yi-jia/</link>
+      <link>http://localhost:1313/author/yi-jia/</link>
     </image>
     
     <item>
       <title>Ideas in Genomic Selection with the Potential to Transform Plant Molecular Breeding: A Review</title>
-      <link>https://ibreeding.cn/publication/mc-gowan-2021/</link>
+      <link>http://localhost:1313/publication/mc-gowan-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/mc-gowan-2021/</guid>
+      <guid>http://localhost:1313/publication/mc-gowan-2021/</guid>
       <description></description>
     </item>
     

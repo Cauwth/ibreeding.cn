@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qian Cheng | WangLab_CAU</title>
-    <link>https://ibreeding.cn/author/qian-cheng/</link>
-      <atom:link href="https://ibreeding.cn/author/qian-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/qian-cheng/</link>
+      <atom:link href="http://localhost:1313/author/qian-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Qian Cheng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ibreeding.cn/author/qian-cheng/avatar_hu14452695920354631645.jpg</url>
+      <url>http://localhost:1313/author/qian-cheng/avatar_hu14452695920354631645.jpg</url>
       <title>Qian Cheng</title>
-      <link>https://ibreeding.cn/author/qian-cheng/</link>
+      <link>http://localhost:1313/author/qian-cheng/</link>
     </image>
     
     <item>
       <title>G2P Provides an Integrative Environment for Multi-model genomic selection analysis to improve genotype-to-phenotype prediction</title>
-      <link>https://ibreeding.cn/publication/wang-2023/</link>
+      <link>http://localhost:1313/publication/wang-2023/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2023/</guid>
+      <guid>http://localhost:1313/publication/wang-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qian Cheng</title>
-      <link>https://ibreeding.cn/author/qian-cheng/</link>
+      <link>http://localhost:1313/author/qian-cheng/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/author/qian-cheng/</guid>
+      <guid>http://localhost:1313/author/qian-cheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IP4GS:Bringing genomic selection analysis to breedersBringing genomic selection analysis to breeders</title>
-      <link>https://ibreeding.cn/publication/li-2023/</link>
+      <link>http://localhost:1313/publication/li-2023/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/li-2023/</guid>
+      <guid>http://localhost:1313/publication/li-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GOVS</title>
-      <link>https://ibreeding.cn/project/govs/</link>
+      <link>http://localhost:1313/project/govs/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/project/govs/</guid>
+      <guid>http://localhost:1313/project/govs/</guid>
       <description>&lt;p&gt;GOVS (&lt;span style=&#34;color:red&#34;&gt;G&lt;/span&gt;enome &lt;span style=&#34;color:red&#34;&gt;O&lt;/span&gt;ptimization via &lt;span style=&#34;color:red&#34;&gt;V&lt;/span&gt;irtual &lt;span style=&#34;color:red&#34;&gt;S&lt;/span&gt;imulation) is an integrative R package for maize breeding that streamlines genome optimization via virtual simulation achieve guidance of lines selection and population development. GOVS describes a promising strategy that can help breeders to select materials in a purposeful and directional manner, with the purpose of enabling breeders to combine others technologies with rapidly genetic gain benefit by genome optimization.Above figure illustrate the framework of GOVS, GOVS consists of four main modules:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#genome-optimization-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome optimization module&lt;/a&gt; for virtual simulation of optimal genome.&lt;/li&gt;
@@ -48,40 +48,40 @@
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#statistic-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistic module&lt;/a&gt; for contribution statistic of virtual genome.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://govs-pack.github.io/Tutorial/#genome-selection-prediciton-module&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome prediction module&lt;/a&gt; for genotype-to-phenotype prediction of optimal genome.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;GOVS was developed by &lt;a href=&#34;https://ibreeding.cn/authors/qian-cheng/&#34;&gt;Qian Cheng&lt;/a&gt; in 2021.&lt;/p&gt;
+&lt;p&gt;GOVS was developed by &lt;a href=&#34;http://localhost:1313/authors/qian-cheng/&#34;&gt;Qian Cheng&lt;/a&gt; in 2021.&lt;/p&gt;
 &lt;p&gt;Please read the &lt;a href=&#34;https://govs-pack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; for details!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genome optimization via virtual simulation to accelerate maize hybrid breeding</title>
-      <link>https://ibreeding.cn/publication/cheng-2021/</link>
+      <link>http://localhost:1313/publication/cheng-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/cheng-2021/</guid>
+      <guid>http://localhost:1313/publication/cheng-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LightGBM: accelerated genomically designed crop breeding through ensemble learning</title>
-      <link>https://ibreeding.cn/publication/yan-2021/</link>
+      <link>http://localhost:1313/publication/yan-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/yan-2021/</guid>
+      <guid>http://localhost:1313/publication/yan-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The genetic mechanism of heterosis utilization in maize improvement</title>
-      <link>https://ibreeding.cn/publication/xiao-2021-may/</link>
+      <link>http://localhost:1313/publication/xiao-2021-may/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xiao-2021-may/</guid>
+      <guid>http://localhost:1313/publication/xiao-2021-may/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome optimization for improvement of maize breeding</title>
-      <link>https://ibreeding.cn/publication/jiang-2019-dec/</link>
+      <link>http://localhost:1313/publication/jiang-2019-dec/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/jiang-2019-dec/</guid>
+      <guid>http://localhost:1313/publication/jiang-2019-dec/</guid>
       <description></description>
     </item>
     
