@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The genome of the warm-season turfgrass African bermudagrass (Cynodon transvaalensis)
-subtitle: ''
+title: 'The genome of the warm-season turfgrass African bermudagrass (Cynodon transvaalensis)'
+subtitle: 'The genome of the warm-season turfgrass African bermudagrass (_Cynodon transvaalensis_)'
 summary: ''
 authors:
 - Fengchao Cui

@@ -17,9 +17,9 @@
       <link>https://ibreeding.cn/project/african-bermudagrass/</link>
       <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://ibreeding.cn/project/african-bermudagrass/</guid>
-      <description>&lt;h2 id=&#34;assembly-and-annotation-of-african-bermudagrass-cynodon-transvaalensis&#34;&gt;Assembly and annotation of African bermudagrass (Cynodon transvaalensis)&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;assembly-and-annotation-of-african-bermudagrass-cynodon-transvaalensis&#34;&gt;Assembly and annotation of African bermudagrass (&lt;em&gt;Cynodon transvaalensis&lt;/em&gt;)&lt;/h2&gt;
 &lt;h3 id=&#34;program-description&#34;&gt;Program description&lt;/h3&gt;
-&lt;p&gt;Cynodon species can be used for multiple purposes and have high economic and ecological significance. However, the genetic basis of the favorable agronomic traits of Cynodon species is poorly understood, partially due to the limited availability of genomic resources. In this study, we report a chromosome-scale genome assembly of a diploid Cynodon species, C. transvaalensis, obtained by combining Illumina and Nanopore sequencing, BioNano, and Hi-C. The assembly contains 282 scaffolds (~423.42 Mb, N50 = 5.37 Mb), which cover ~93.2% of the estimated genome of C. transvaalensis (~454.4 Mb). Furthermore, 90.48% of the scaffolds (~383.08 Mb) were anchored to nine pseudomolecules, of which the largest was 60.78 Mb in length. Evolutionary analysis along with transcriptome comparison provided a preliminary genomic basis for the adaptation of this species to tropical and/or subtropical climates, typically with dry summers. The genomic resources generated in this study will not only facilitate evolutionary studies of the Chloridoideae subfamily, in particular, the Cynodonteae tribe, but also facilitate functional genomic research and genetic breeding in Cynodon species for new leading turfgrass cultivars in the future.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cynodon&lt;/em&gt; species can be used for multiple purposes and have high economic and ecological significance. However, the genetic basis of the favorable agronomic traits of &lt;em&gt;Cynodon&lt;/em&gt; species is poorly understood, partially due to the limited availability of genomic resources. In this study, we report a chromosome-scale genome assembly of a diploid &lt;em&gt;Cynodon&lt;/em&gt; species, &lt;em&gt;C. transvaalensis&lt;/em&gt;, obtained by combining Illumina and Nanopore sequencing, BioNano, and Hi-C. The assembly contains 282 scaffolds (~423.42 Mb, N50 = 5.37 Mb), which cover ~93.2% of the estimated genome of C. transvaalensis (~454.4 Mb). Furthermore, 90.48% of the scaffolds (~383.08 Mb) were anchored to nine pseudomolecules, of which the largest was 60.78 Mb in length. Evolutionary analysis along with transcriptome comparison provided a preliminary genomic basis for the adaptation of this species to tropical and/or subtropical climates, typically with dry summers. The genomic resources generated in this study will not only facilitate evolutionary studies of the Chloridoideae subfamily, in particular, the Cynodonteae tribe, but also facilitate functional genomic research and genetic breeding in &lt;em&gt;Cynodon&lt;/em&gt; species for new leading turfgrass cultivars in the future.&lt;/p&gt;
 &lt;h4 id=&#34;data-download&#34;&gt;Data download:&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -33,7 +33,7 @@
 &lt;p&gt;MD5sum: 9ac0b69e64f6cdf7b25a3be1238732e8&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;African bermudagrass genome was assebled by &lt;a href=&#34;https://ibreeding.cn/authors/fengchao-cui/&#34;&gt;Fengchao Cui&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;African bermudagrass genome was assembled by &lt;a href=&#34;https://ibreeding.cn/authors/fengchao-cui/&#34;&gt;Fengchao Cui&lt;/a&gt; in 2020.&lt;/p&gt;
 &lt;p&gt;For details, please refer to &lt;em&gt;&lt;a href=&#34;https://doi.org/10.1038/s41438-021-00519-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The genome of the warm-season turfgrass African
 bermudagrass (Cynodon transvaalensis)&lt;/a&gt;&lt;/em&gt;, or simply click the &amp;ldquo;pdf&amp;rdquo; button below the title!&lt;/p&gt;
 </description>

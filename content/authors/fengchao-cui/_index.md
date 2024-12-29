@@ -34,7 +34,7 @@ education:
     institution: Chinese Academy of Agricultural Sciences
     year: 2015 - 2018
   - course: BSc
-    institution: China Agricultural University
+    institution: Northeast Agricultural University
     year: 2011 - 2015
 
 # Social/Academic Networking
