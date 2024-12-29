@@ -51,5 +51,5 @@ authors: ["fengchao-cui"]
 
 African bermudagrass genome was assembled by [Fengchao Cui](/authors/fengchao-cui/) in 2020.
 
-For details, please refer to _[The genome of the warm-season turfgrass African
-bermudagrass (Cynodon transvaalensis)](https://doi.org/10.1038/s41438-021-00519-w)_, or simply click the "pdf" button below the title!
+For details, please refer to [The genome of the warm-season turfgrass African
+bermudagrass (*Cynodon transvaalensis*)](https://doi.org/10.1038/s41438-021-00519-w), or simply click the "pdf" button below the title!
