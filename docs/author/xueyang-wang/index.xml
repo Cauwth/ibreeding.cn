@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xueyang Wang | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/xueyang-wang/</link>
+      <atom:link href="https://ibreeding.cn/author/xueyang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xueyang Wang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ibreeding.cn/author/xueyang-wang/avatar_hu6031016944980898907.jpg</url>
+      <title>Xueyang Wang</title>
+      <link>https://ibreeding.cn/author/xueyang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Xueyang Wang</title>
+      <link>https://ibreeding.cn/author/xueyang-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/author/xueyang-wang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

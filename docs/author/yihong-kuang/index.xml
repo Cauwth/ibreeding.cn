@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yihong Kuang | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/yihong-kuang/</link>
+      <atom:link href="https://ibreeding.cn/author/yihong-kuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yihong Kuang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ibreeding.cn/author/yihong-kuang/avatar_hu13978614933231337419.jpg</url>
+      <title>Yihong Kuang</title>
+      <link>https://ibreeding.cn/author/yihong-kuang/</link>
+    </image>
+    
+    <item>
+      <title>Yihong Kuang</title>
+      <link>https://ibreeding.cn/author/yihong-kuang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/author/yihong-kuang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

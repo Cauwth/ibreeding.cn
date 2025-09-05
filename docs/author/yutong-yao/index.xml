@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yutong Yao | WangLab_CAU</title>
+    <link>https://ibreeding.cn/author/yutong-yao/</link>
+      <atom:link href="https://ibreeding.cn/author/yutong-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yutong Yao</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ibreeding.cn/author/yutong-yao/avatar_hu12853332876179393157.jpg</url>
+      <title>Yutong Yao</title>
+      <link>https://ibreeding.cn/author/yutong-yao/</link>
+    </image>
+    
+    <item>
+      <title>Yutong Yao</title>
+      <link>https://ibreeding.cn/author/yutong-yao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/author/yutong-yao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1627,7 +1627,13 @@
     <loc>https://ibreeding.cn/research/genomic-breeding/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ibreeding.cn/author/guokai-hu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ibreeding.cn/research/human-health/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ibreeding.cn/author/jiayi-jiang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ibreeding.cn/author/jing-yang/</loc>
@@ -1672,6 +1678,9 @@
     <loc>https://ibreeding.cn/author/xiaoling-wei/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ibreeding.cn/author/xinru-shi/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ibreeding.cn/author/xiunan-shi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1681,13 +1690,28 @@
     <loc>https://ibreeding.cn/author/xue-pan/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ibreeding.cn/author/xueyang-wang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ibreeding.cn/author/yihong-kuang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ibreeding.cn/author/ying-zhang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ibreeding.cn/author/yisu-tian/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ibreeding.cn/author/yizhe-ding/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ibreeding.cn/author/yu-hu/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ibreeding.cn/author/yu-li/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ibreeding.cn/author/yutong-yao/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ibreeding.cn/author/yuwen-wang/</loc>
