@@ -31,7 +31,7 @@ education:
     institution: China Agricultural University
     year: 2025 -
   - course: BSc
-    institution: Southwest Agricultural University
+    institution: Southwest University
     year: 2021 - 2025
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
