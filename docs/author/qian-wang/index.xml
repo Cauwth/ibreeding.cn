@@ -5,12 +5,20 @@
     <link>https://ibreeding.cn/author/qian-wang/</link>
       <atom:link href="https://ibreeding.cn/author/qian-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Qian Wang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Qian Wang</title>
       <link>https://ibreeding.cn/author/qian-wang/</link>
     </image>
+    
+    <item>
+      <title>iFLAS: positive-unlabeled learning facilitates full-length transcriptome-based identification and functional exploration of alternatively spliced isoforms in maize</title>
+      <link>https://ibreeding.cn/publication/xu-2024-jan/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/xu-2024-jan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>G2P Provides an Integrative Environment for Multi-model genomic selection analysis to improve genotype-to-phenotype prediction</title>

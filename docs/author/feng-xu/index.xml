@@ -5,7 +5,7 @@
     <link>https://ibreeding.cn/author/feng-xu/</link>
       <atom:link href="https://ibreeding.cn/author/feng-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Feng Xu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/author/feng-xu/avatar_hu10925022888923371128.jpg</url>
       <title>Feng Xu</title>
@@ -15,8 +15,32 @@
     <item>
       <title>Feng Xu</title>
       <link>https://ibreeding.cn/author/feng-xu/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://ibreeding.cn/author/feng-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundation models in plant molecular biology: advances, challenges, and future directions</title>
+      <link>https://ibreeding.cn/publication/xu-2025-jun/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/xu-2025-jun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRBIGR: A versatile toolbox for genetic regulation inference from population-scale multi-omics data</title>
+      <link>https://ibreeding.cn/publication/xu-2025-mar/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/xu-2025-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iFLAS: positive-unlabeled learning facilitates full-length transcriptome-based identification and functional exploration of alternatively spliced isoforms in maize</title>
+      <link>https://ibreeding.cn/publication/xu-2024-jan/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/xu-2024-jan/</guid>
       <description></description>
     </item>
     
