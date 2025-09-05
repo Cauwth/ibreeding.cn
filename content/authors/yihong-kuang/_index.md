@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yu Hu
+title: Yihong Kuang
 
 # Username (this should match the folder name)
 authors:
-- yu-hu
+- yihong-kuang
 
 # Is this the primary user of the site?
 superuser: false
@@ -29,11 +29,10 @@ education:
   courses:
   - course: MS
     institution: China Agricultural University
-    year: 2023 - 2025
+    year: 2025 -
   - course: BSc
-    institution: Northwest A&F University
-    year: 2019 - 2023
-
+    institution: Sichuan Agricultural University
+    year: 2021 - 2025
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -63,5 +62,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- MS
 ---

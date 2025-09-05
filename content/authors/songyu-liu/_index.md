@@ -29,7 +29,7 @@ education:
   courses:
   - course: Postdoc
     institution: China Agricultural University
-    year: 2022 -
+    year: 2022 - 2025
   - course: PhD
     institution: China Agricultural University
     year: 2015 - 2022
@@ -66,5 +66,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Associates
+- Grad Students
 ---

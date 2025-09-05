@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yu Hu
+title: Xinru Shi
 
 # Username (this should match the folder name)
 authors:
-- yu-hu
+- xinru-shi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MS
+role: PhD.Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
-  - course: MS
+  - course: PhD. Candidate
     institution: China Agricultural University
-    year: 2023 - 2025
-  - course: BSc
-    institution: Northwest A&F University
-    year: 2019 - 2023
+    year: 2025 -
+  - course: Master of Engineering in Bioinformatics
+    institution: Southwest University (SWU) / Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences
+    year: 2022 - 2025
+  - course: Bachelor of Science in Biotechnology
+    institution: Changchun University of Science and Technology (CUST)
+    year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,5 +66,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD. Candidates
 ---

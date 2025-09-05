@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yu Hu
+title: Yutong Yao
 
 # Username (this should match the folder name)
 authors:
-- yu-hu
+- yutong-yao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MS
+role: PhD.Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,13 +27,12 @@ interests:
 
 education:
   courses:
-  - course: MS
+  - course: PhD. Candidate
     institution: China Agricultural University
-    year: 2023 - 2025
+    year: 2025 -
   - course: BSc
-    institution: Northwest A&F University
-    year: 2019 - 2023
-
+    institution: China Agricultural University
+    year: 2021 - 2025
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -63,5 +62,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD. Candidates
 ---

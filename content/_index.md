@@ -11,7 +11,7 @@ sections:
       subtitle:
       text: |
         
-        {{< figure src="hezhao.png" width="100%" >}}
+        {{< figure src="hezhao-1.png" width="100%" >}}
         [Professor Xiangfeng Bryan Wang and his members](people#current) in the Lab at China Agricultural University are working on a series of topics in Systems Biology, including:
         1. [Crop Genomics](research/crop-genomics), particularly interested in understanding the domestication process from ancestral plant species to modern crops, such as rice, maize, wheat. His Lab has recently sequenced and assembled the wild African rice Oryza barthii genome using the third generation sequencing platform, PacBio system. Comparison between O. barthii and its cultivated rice, Oryza glaberrima, revealed a long DNA fragment (200Kb) subject to strong domestication selection.
         2. [Population Genetics](research/population-genetics), particularly interested in developing novel methodologies for GWAS analysis, and identifying important genes, QTL, and genetic variations that are associated with important agronomic traits. We are currently working on integrating crop germplasm resequencing data for meta-GWAS analysis.
