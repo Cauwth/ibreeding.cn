@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS
+role: PhD.Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
+  - course: PhD. Candidate
+    institution: China Agricultural University
+    year: 2025 -
   - course: MS
     institution: China Agricultural University
-    year: 2023 -
+    year: 2023 - 2025
   - course: BSc
     institution: China Agricultural University
     year: 2019 - 2023
