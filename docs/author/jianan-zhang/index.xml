@@ -5,12 +5,20 @@
     <link>https://ibreeding.cn/author/jianan-zhang/</link>
       <atom:link href="https://ibreeding.cn/author/jianan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianan Zhang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/media/icon_hu4481101865266225006.png</url>
       <title>Jianan Zhang</title>
       <link>https://ibreeding.cn/author/jianan-zhang/</link>
     </image>
+    
+    <item>
+      <title>Integrating pan-genome analysis, GWAS, and interpretable machine learning to prioritize trait-associated structural variations in Setaria italica</title>
+      <link>https://ibreeding.cn/publication/wang-2026-mar/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/wang-2026-mar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MRBIGR: A versatile toolbox for genetic regulation inference from population-scale multi-omics data</title>

@@ -5,7 +5,7 @@
     <link>https://ibreeding.cn/author/fan-xia/</link>
       <atom:link href="https://ibreeding.cn/author/fan-xia/index.xml" rel="self" type="application/rss+xml" />
     <description>Fan Xia</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/author/fan-xia/avatar_hu5804097689404503534.jpg</url>
       <title>Fan Xia</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>AI-enabled protein design facilitates future plant research and crop breeding</title>
+      <link>https://ibreeding.cn/publication/lou-2026-mar/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/lou-2026-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fan Xia</title>
       <link>https://ibreeding.cn/author/fan-xia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://ibreeding.cn/author/fan-xia/</guid>
       <description></description>
     </item>

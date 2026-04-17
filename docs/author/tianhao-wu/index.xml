@@ -5,7 +5,7 @@
     <link>https://ibreeding.cn/author/tianhao-wu/</link>
       <atom:link href="https://ibreeding.cn/author/tianhao-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianhao Wu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/author/tianhao-wu/avatar_hu8172430057177850812.jpg</url>
       <title>Tianhao Wu</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Foundation models in plant molecular biology: advances, challenges, and future directions</title>
-      <link>https://ibreeding.cn/publication/xu-2025-jun/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/xu-2025-jun/</guid>
+      <title>AI-driven protein engineering: A new paradigm for plant trait design</title>
+      <link>https://ibreeding.cn/publication/fu-2026-mar/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/fu-2026-mar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tianhao Wu</title>
       <link>https://ibreeding.cn/author/tianhao-wu/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://ibreeding.cn/author/tianhao-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-enabled protein design facilitates future plant research and crop breeding</title>
+      <link>https://ibreeding.cn/publication/lou-2026-mar/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/lou-2026-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating pan-genome analysis, GWAS, and interpretable machine learning to prioritize trait-associated structural variations in Setaria italica</title>
+      <link>https://ibreeding.cn/publication/wang-2026-mar/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/wang-2026-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundation models in plant molecular biology: advances, challenges, and future directions</title>
+      <link>https://ibreeding.cn/publication/xu-2025-jun/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/xu-2025-jun/</guid>
       <description></description>
     </item>
     

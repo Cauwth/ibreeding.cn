@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: AI-driven protein engineering: A new paradigm for plant trait design
+title: 'AI-driven protein engineering: A new paradigm for plant trait design'
 subtitle: ''
 summary: ''
 authors: 

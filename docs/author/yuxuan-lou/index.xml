@@ -5,7 +5,7 @@
     <link>https://ibreeding.cn/author/yuxuan-lou/</link>
       <atom:link href="https://ibreeding.cn/author/yuxuan-lou/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuxuan Lou</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/author/yuxuan-lou/avatar_hu8607540231051663716.jpg</url>
       <title>Yuxuan Lou</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Prediction of plant phase-separating proteins using positive-unlabeled learning</title>
+      <link>https://ibreeding.cn/publication/fu-2026-apr/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/fu-2026-apr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Yuxuan Lou</title>
       <link>https://ibreeding.cn/author/yuxuan-lou/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://ibreeding.cn/author/yuxuan-lou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-enabled protein design facilitates future plant research and crop breeding</title>
+      <link>https://ibreeding.cn/publication/lou-2026-mar/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/lou-2026-mar/</guid>
       <description></description>
     </item>
     

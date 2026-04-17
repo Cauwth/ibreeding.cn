@@ -5,7 +5,7 @@
     <link>https://ibreeding.cn/author/wenying-wang/</link>
       <atom:link href="https://ibreeding.cn/author/wenying-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenying Wang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/author/wenying-wang/avatar_hu16846238914243580890.jpg</url>
       <title>Wenying Wang</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Integrating pan-genome analysis, GWAS, and interpretable machine learning to prioritize trait-associated structural variations in Setaria italica</title>
+      <link>https://ibreeding.cn/publication/wang-2026-mar/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/wang-2026-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wenying Wang</title>
       <link>https://ibreeding.cn/author/wenying-wang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://ibreeding.cn/author/wenying-wang/</guid>
       <description></description>
     </item>

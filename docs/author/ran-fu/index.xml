@@ -5,7 +5,7 @@
     <link>https://ibreeding.cn/author/ran-fu/</link>
       <atom:link href="https://ibreeding.cn/author/ran-fu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ran Fu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ibreeding.cn/author/ran-fu/avatar_hu13190365076198203709.jpg</url>
       <title>Ran Fu</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>G2P Provides an Integrative Environment for Multi-model genomic selection analysis to improve genotype-to-phenotype prediction</title>
-      <link>https://ibreeding.cn/publication/wang-2023/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ibreeding.cn/publication/wang-2023/</guid>
+      <title>Prediction of plant phase-separating proteins using positive-unlabeled learning</title>
+      <link>https://ibreeding.cn/publication/fu-2026-apr/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/fu-2026-apr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ran Fu</title>
       <link>https://ibreeding.cn/author/ran-fu/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://ibreeding.cn/author/ran-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-driven protein engineering: A new paradigm for plant trait design</title>
+      <link>https://ibreeding.cn/publication/fu-2026-mar/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/fu-2026-mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G2P Provides an Integrative Environment for Multi-model genomic selection analysis to improve genotype-to-phenotype prediction</title>
+      <link>https://ibreeding.cn/publication/wang-2023/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ibreeding.cn/publication/wang-2023/</guid>
       <description></description>
     </item>
     
