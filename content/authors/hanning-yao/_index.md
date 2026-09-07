@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shiya Mao
+title: Hanning Yao
 
 # Username (this should match the folder name)
 authors:
-- shiya-mao
+- hanning-yao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: MS
 
 # Organizations/Affiliations
 organizations:
@@ -27,13 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD. Candidates
+  - course: MS
     institution: China Agricultural University
-    year: 2021 - 2026
+    year: 2026 -
   - course: BSc
-    institution: Sichuan Agricultural University
-    year: 2017 - 2021
-
+    institution: Northeast Agricultural University
+    year: 2022 - 2026
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -63,5 +62,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Associates
+- MS
 ---

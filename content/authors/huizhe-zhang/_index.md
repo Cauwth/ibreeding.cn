@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shiya Mao
+title: Huizhe Zhang
 
 # Username (this should match the folder name)
 authors:
-- shiya-mao
+- huizhe-zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: PhD.Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD. Candidates
+  - course: PhD. Candidate
     institution: China Agricultural University
-    year: 2021 - 2026
+    year: 2026 -
+  - course: MS
+    institution: North China University of Science and Technology
+    year: 2022 - 2025
   - course: BSc
-    institution: Sichuan Agricultural University
-    year: 2017 - 2021
+    institution: North China University of Science and Technology
+    year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,5 +66,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Associates
+- PhD. Candidates
 ---
